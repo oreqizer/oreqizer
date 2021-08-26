@@ -1,6 +1,6 @@
 +++
 title = "First"
-slug = "first"
+date = 2021-08-26
 
 [taxonomies]
 tags = ["first"]
