@@ -1,3 +1,1 @@
-# Oreqizer
-
-Manifestation of my brain :brain: into MD files.
+GitHub doing CVs now, nice. :ok_hand:

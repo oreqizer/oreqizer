@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oreqizer.com/sitemap.xml
