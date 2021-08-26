@@ -1,5 +1,6 @@
+# https://www.getzola.org/documentation/getting-started/configuration/
 title = "Boris Petrenko"
-description = "I lift and I know things"
+description = "Brainz 🧠 and Gainz 💪"
 highlight_code = true
 generate_rss = true
 
