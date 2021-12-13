@@ -152,9 +152,10 @@ the client makes the app ready to use super fast:
 ![Server-side rendering flow](./ssr-flow.png "Server-side rendering flow")
 
 "C'mon, there has to be some caveat to this approach! :grimacing:" You might
-say. And you're right. You need a server, and a damn complex at that. In
-addition, getting data serialization and hydration working is quite tedious and
-prone to errors.
+say. And you're right. A slow backend could delay TTFB, which would delay
+the initial render. In addition, you need a server, and a damn complex at that.
+On top of that, getting data serialization and hydration working is quite
+tedious and prone to errors.
 
 Here is a typical flow for a single request:
 
