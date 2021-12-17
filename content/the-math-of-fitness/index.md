@@ -1,0 +1,170 @@
++++
+title = "The math of fitness"
+date = 2021-12-13
+draft = true
+
+[taxonomies]
+tags = ["gains", "health"]
++++
+
+_Fitness_ is one of the most bastardized terms in the industry. No one really
+knows what does the word mean. Some interpret it as low-enough body fat. Others
+consider people with great endurance to be fit, such as marathon runners.
+Strength and muscle is often an indicator of fitness as well. The list goes on.
+
+I am going to offer a mathematical interpretation of fitness, along with
+practical implications that arise in context of life and sport performance.
+These ideas are not new. In fact, Greg Glassman, founder of CrossFit, has talked
+about this interpretation multiple times during his presentations[^1]. I want to
+build upon his ideas and introduce a robust framework for _training for a better
+life_.
+
+## Definition
+
+If you search for the term "fitness", you get a bunch of definitions:
+
+![Fitness definition](./fitness-definition.png "Fitness definition")
+
+The first definition, "the condition of being physically fit and healthy" is
+ambiguous — how should one interpret "fit"? Most people will give completely
+different answers.
+
+The second definition, "the quality of being suitable to fulfil a particular
+role or task" is more interesting. Applying it on the prior definition, we can
+define "fit" as "being physically able to function in life".
+
+This means that a person can list tasks they want to be able to perform, then
+gauge their _fitness_ based on their performance executing said tasks. For
+example, one may want to:
+
+- do some household stuff like organize items, carry suitcases to the car
+- play with their kids, toss them around, participate in outside games
+- do leisure sports such as snowboarding, hiking, bowling
+- do intellectual activities for relaxation
+
+For this person, fitness means being able to perform these actions with ease,
+ideally into a very old age. They want to be productive at their job, lead an
+active lifestyle with family and friends and still have some energy left for
+books and video games in the evening.
+
+## Abstraction
+
+Consider the following activities:
+
+- running, swimming, cycling
+- snatch, clean, jerk, squat, press, deadlift
+- carrying a suitcase, placing bricks on top of each other
+- cooking, cleaning, chasing a toddler
+
+What exactly happens when we perform these activities? What do they have in
+common? In cycling, we're pressing pedals at a certain pace. When carrying a
+suitcase, we're moving objects through space. Placing bricks involves lifting
+and moving objects. Chasing a toddler is basically lifting an object and
+running. Household chores involve a lot of item micromanagement. Snatch and
+those other lifts involve displacing a heavy ass weight.
+
+You may start noticing a pattern here. Moving and lifting objects, pressing
+pedals, running. They all involve _doing work_ within a certain _time_, either
+via exerting force for a certain distance by grabbing and moving an object or
+moving feet, or even just spending energy by performing certain tasks like
+stirring soup.
+
+Doing **work** within a certain **time** is in fact the formula for **power**:
+
+```
+TODO draw and graph this:
+P = dW / dt
+```
+
+As we established previously, a fit person has the ability to _perform his
+desired tasks_. In other words, they're able to _produce enough power for the
+given period of time_ in the _context_ of the task.
+
+### Work capacity
+
+How do we optimize our ability to perform the tasks we want, participate in
+sports, thus increase our "fitness"? With power being the common variable, we
+want to be able to _exert as much power as possible for a certain period of
+time_ in a specific context. In other words, we want to be able to _perform as
+much work as possible within a time frame_.
+
+In the following section, I am going to intentionally disregard context
+specificity for a while. Doing so will allow me to put clear focus on the
+abstract idea I want to present. Context specificity will be reintroduced later
+when we'll start bringing focus back to practical implications.
+
+Consider the following formula that calculates **work** done by exerting
+**power** over a period of **time**:
+
+```
+TODO draw and graph this:
+W = t=0_int^T P(t) * dt
+```
+
+For a specific time `T`, in order to maximize work `W`, we have to maximize the
+_area under the curve_ of the graph. That means maximizing average power `P`
+within the time.
+
+The amount of work we can produce within a certain time is our _work capacity_
+for that time frame.
+
+### Work spectrum
+
+Maximizing work capacity in just a single time frame is very limiting. We want
+to maximize our work capacity across a _broad time domain_. Going up a
+dimension, we can illustrate a _spectrum of work capacities_, which is the
+volume under the plane formed by _work capacities of different time frames_. I
+am going to call it _work spectrum_:
+
+```
+TODO draw and graph this:
+WS = s=0_int^S t=0_int^s P(t, s) * dt
+```
+
+Within the time domain from zero to `S` we calculate our _work capacity_ in each
+time frame. To maximize the _volume under the plane_ of the graph we have to
+maximize the average power `P` for each time frame.
+
+### Context specificity
+
+The established _work spectrum_ formula assumes a seamless carryover between
+contexts, meaning that having a certain work capacity in one context means
+having the same capacity in all contexts. This assumption, however, violates the
+rule of context specificity[^2].
+
+Adding a _broad spectrum of contexts_ to the formula finally gives us the
+mathematical representation of **fitness**:
+
+```
+TODO draw and graph this:
+Fitness = i=0_sum^n s=0_int^S t=0_int^s P(t, s, Ci) * dt
+```
+
+For each context `Ci`, we calculate _work capacity_ for that context in a broad
+time domain from zero to `S`. To maximize _fitness_, we have to maximize _volume
+under the plane_ for each context's _work spectrum_, meaning we have to maximize
+the average power `P` for each time frame in each context.
+
+As Glassman said it[^3]:
+
+> Fitness is work capacity measured across broad time and modal domains.
+
+This means that when we are improving our fitness, we're improving our ability
+to execute _every possible task_ in a _broad time domain_, be it running,
+lifting or carrying stuff, chores, babysitting, building a house.
+
+### Aging
+
+_TODO_ why buffer as much fitness as possible, bcs aging is continuous function
+gradual dropoff, meaning we'll rot later in life
+
+## Footnotes
+
+[^1]:
+    [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
+
+[^2]:
+    [Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
+
+[^3]:
+    [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
