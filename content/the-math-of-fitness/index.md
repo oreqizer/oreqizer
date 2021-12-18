@@ -151,12 +151,96 @@ As Glassman said it[^3]:
 
 This means that when we are improving our fitness, we're improving our ability
 to execute _every possible task_ in a _broad time domain_, be it running,
-lifting or carrying stuff, chores, babysitting, building a house.
+lifting or carrying stuff, chores, babysitting, building a house. You name it.
+
+## Buffering
+
+One may wonder, why should we _maximize_ our fitness? Isn't being _fit enough_
+to be able to do our intended tasks sufficient?
+
+The short answer is **no**. We'll go through two main reasons why we want to
+_buffer_ as much fitness as possible, as soon as possible.
 
 ### Aging
 
-_TODO_ why buffer as much fitness as possible, bcs aging is continuous function
-gradual dropoff, meaning we'll rot later in life
+Recall that the base attribute of the whole fitness formula is _power_. As
+humans age, we lose strength[^4] and endurance[^5], two main components power
+production over a period of time, in a %-based manner:
+
+```
+TODO draw
+W = F * d
+P = dW / dt
+```
+
+Losing both strength and endurance due to aging is _gradual_ , it does not occur
+in discrete steps. This implies that our _power across every age_ function is
+_continuous_.
+
+Assuming we never work on increasing our fitness, our power function may
+diminish something like this:
+
+```
+TODO draw
+^ power
+| -\
+____> age
+```
+
+This loss of power directly affects the formula for _fitness_, because we
+gradually lose the ability to _produce power in all contexts and across the
+whole time domain_. Let's graph a person's fitness across his life:
+
+```
+TODO
+^ fitness
+| -\
+____> age
+```
+
+Let's assume a curve of a person's desired _minimal fitness_, indicating how fit
+this person wants to be at a given age. This can for example mean that an
+elderly person wants to be able to play with his grandchildren, carry groceries,
+hike and do gardening work on weekends. When younger, they also wanted to play
+sports and compete, be productive at work and handle chores. Their minimal
+fitness curve would look something like this:
+
+```
+TODO
+^ fitness
+| -\
+| ---- curve
+|    \
+____> age
+```
+
+When their fitness falls fall under the curve, they lose the ability to perform
+some of their desired activities, and the deeper they are, the more ability they
+lose.
+
+How do we ensure delaying falling under our personal minimal fitness curve?
+Because losing fitness is gradual, the answer is simple — **buffer as much
+fitness as possible, as soon as possible**!
+
+Consider two graphs for the same person. In one, they only trained their fitness
+slightly. In the other, they tried to maximize their fitness the best their life
+allowed them to:
+
+```
+TODO make two of these, one crosses at 50, one at 85
+^ fitness
+| -\
+| ----- curve
+|    \
+_____> age
+```
+
+...
+
+### Perceived exertion
+
+_TODO_ why buffer as much fitness as possible, bcs perceived exertion and
+recovery
 
 ## Footnotes
 
@@ -168,3 +252,9 @@ gradual dropoff, meaning we'll rot later in life
 
 [^3]:
     [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
+
+[^4]:
+    [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
+
+[^5]:
+    [Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
