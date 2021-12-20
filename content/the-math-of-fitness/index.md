@@ -19,7 +19,7 @@ about this interpretation multiple times during his presentations[^1]. I want to
 build upon his ideas and introduce a robust framework for _training for a better
 life_.
 
-## Definition
+# Definition
 
 If you search for the term "fitness", you get a bunch of definitions:
 
@@ -47,7 +47,7 @@ ideally into a very old age. They want to be productive at their job, lead an
 active lifestyle with family and friends and still have some energy left for
 books and video games in the evening.
 
-## Abstraction
+# Abstraction
 
 Consider the following activities:
 
@@ -80,7 +80,7 @@ As we established previously, a fit person has the ability to _perform his
 desired tasks_. In other words, they're able to _produce enough power for the
 given period of time_ in the _context_ of the task.
 
-### Work capacity
+## Work capacity
 
 How do we optimize our ability to perform the tasks we want, participate in
 sports, thus increase our "fitness"? With power being the common variable, we
@@ -108,7 +108,7 @@ within the time.
 The amount of work we can produce within a certain time is our _work capacity_
 for that time frame.
 
-### Work spectrum
+## Work spectrum
 
 Maximizing work capacity in just a single time frame is very limiting. We want
 to maximize our work capacity across a _broad time domain_. Going up a
@@ -125,7 +125,7 @@ Within the time domain from zero to `S` we calculate our _work capacity_ in each
 time frame. To maximize the _volume under the plane_ of the graph we have to
 maximize the average power `P` for each time frame.
 
-### Context specificity
+## Context specificity
 
 The established _work spectrum_ formula assumes a seamless carryover between
 contexts, meaning that having a certain work capacity in one context means
@@ -153,32 +153,19 @@ This means that when we are improving our fitness, we're improving our ability
 to execute _every possible task_ in a _broad time domain_, be it running,
 lifting or carrying stuff, chores, babysitting, building a house. You name it.
 
-## Buffering
+# Buffering
 
 One may wonder, why should we _maximize_ our fitness? Isn't being _fit enough_
 to be able to do our intended tasks sufficient?
 
-The short answer is **no**. We'll go through two main reasons why we want to
-_buffer_ as much fitness as possible, as soon as possible.
+The short answer is **no**. We'll go through reasons why we want to _buffer_ as
+much fitness as possible, as soon as possible.
 
-### Aging
+## Aging
 
-Recall that the base attribute of the whole fitness formula is _power_. As
-humans age, we lose strength[^4] and endurance[^5], two main components power
-production over a period of time, in a %-based manner:
-
-```
-TODO draw
-W = F * d
-P = dW / dt
-```
-
-Losing both strength and endurance due to aging is _gradual_ , it does not occur
-in discrete steps. This implies that our _power across every age_ function is
-_continuous_.
-
-Assuming we never work on increasing our fitness, our power function may
-diminish something like this:
+As humans age, we lose power[^4], strength[^5] and endurance[^6], all direct
+components for power production over a period of time, in a %-based manner. This
+implies that our _power across every age_ function is _continuous_:
 
 ```
 TODO draw
@@ -189,7 +176,8 @@ ____> age
 
 This loss of power directly affects the formula for _fitness_, because we
 gradually lose the ability to _produce power in all contexts and across the
-whole time domain_. Let's graph a person's fitness across his life:
+whole time domain_. Graphing a person's fitness across his life very much
+resembles the declining power function:
 
 ```
 TODO
@@ -223,11 +211,11 @@ Because losing fitness is gradual, the answer is simple — **buffer as much
 fitness as possible, as soon as possible**!
 
 Consider two graphs for the same person. In one, they only trained their fitness
-slightly. In the other, they tried to maximize their fitness the best their life
-allowed them to:
+slightly. In the other, they tried to maximize their fitness the best their
+lifestyle allowed them to:
 
 ```
-TODO make two of these, one crosses at 50, one at 85
+TODO make two of these, one crosses at 45, one at 85
 ^ fitness
 | -\
 | ----- curve
@@ -235,14 +223,26 @@ TODO make two of these, one crosses at 50, one at 85
 _____> age
 ```
 
-...
+Notice how in the first graph, they cross their minimal fitness curve at around
+the age of 45, while in the other graph they do so at 85. This means that
+maximizing fitness allowed them to _live to their full potential for 40 more
+years_!
 
-### Perceived exertion
+While this is all hypothetical and presented using abstract math, the impact of
+fitness improvements during aging is well-established[^7], including the
+benefits of resistance training[^8][^9], aerobic and anaerobic
+training[^10][^11], and power training[^12].
+
+## Perceived exertion
 
 _TODO_ why buffer as much fitness as possible, bcs perceived exertion and
 recovery
 
-## Footnotes
+# Training
+
+_TODO_ practical implications
+
+# Footnotes
 
 [^1]:
     [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
@@ -254,7 +254,34 @@ recovery
     [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
 
 [^4]:
-    [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
+    [Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
 
 [^5]:
+    [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
+
+[^6]:
     [Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
+
+[^7]:
+    [Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
+
+[^8]:
+    [Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
+
+[^9]:
+    [Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
+
+[^10]:
+    [Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
+
+[^11]:
+    [Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
+
+[^12]:
+    [High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
+
+[^13]:
+    [Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
+
+[^14]:
+    [Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
