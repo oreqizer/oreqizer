@@ -101,9 +101,9 @@ TODO draw and graph this:
 W = t=0_int^T P(t) * dt
 ```
 
-For a specific time `T`, in order to maximize work `W`, we have to maximize the
-_area under the curve_ of the graph. That means maximizing average power `P`
-within the time.
+For a specific time `T`, in order to maximize work capacity `W`, we have to
+maximize the _area under the curve_ of the graph. That means maximizing average
+power `P` within the time.
 
 The amount of work we can produce within a certain time is our _work capacity_
 for that time frame.
@@ -208,7 +208,7 @@ lose.
 
 How do we ensure delaying falling under our personal minimal fitness curve?
 Because losing fitness is gradual, the answer is simple — **buffer as much
-fitness as possible, as soon as possible**!
+fitness as possible**!
 
 Consider two graphs for the same person. In one, they only trained their fitness
 slightly. In the other, they tried to maximize their fitness the best their
@@ -228,60 +228,176 @@ the age of 45, while in the other graph they do so at 85. This means that
 maximizing fitness allowed them to _live to their full potential for 40 more
 years_!
 
-While this is all hypothetical and presented using abstract math, the impact of
-fitness improvements during aging is well-established[^7], including the
-benefits of resistance training[^8][^9], aerobic and anaerobic
-training[^10][^11], and power training[^12].
+While this is all presented using abstract math, the impact of fitness
+improvements during aging is well-established[^7], including the benefits of
+resistance training[^8][^9], aerobic and anaerobic training[^10][^11], and power
+training[^12].
 
 ## Perceived exertion
 
-_TODO_ why buffer as much fitness as possible, bcs perceived exertion and
-recovery
+Imagine having to carry a bunch of groceries across a huge parking lot at a mall
+on a hot summer day. Heavy ass ones, with bottled water and a watermelon and
+everything. The total weight being what you can barely handle. How tired would
+you be after the trip? You'd probably be catching breath for a couple of
+minutes, hands shaking, and sweating like a jazzman at midnight on live
+television.
 
-# Training
+The work you performed was near your _work capacity_ in the context of this
+grocery trip. Your _perceived exertion_ of this trip is inversely proportional
+to how close the _total work done_ is to your _work capacity_ in this context.
+Let's illustrate perceived exertion in percent using a graph of our power
+output:
+
+```
+TODO
+^ power
+| ------- max power
+| ------- performed power
+|
+|
+---------> time
+
+PE = W / W_max * 100%
+   = ~90%
+```
+
+The perceived exertion `PE` is calculated as the total work done `W` over our
+work capacity `W_max` in the given context and time frame, multiplied by `100`
+to get the percent.
+
+A commonly used ranking system is **Rating of Perceived Exertion**, or **RPE**
+for short. For simplicity, an implementation that could be applied in our
+example is simply transferring percent to a 1-10 numeric scale by rounding:
+
+| Perceived exertion % | RPE |
+| -------------------- | --- |
+| 0-14%                | 1   |
+| 15-24%               | 2   |
+| 25-34%               | 3   |
+| ...                  | ... |
+| 75-84%               | 8   |
+| 85-94%               | 9   |
+| 95-100%              | 10  |
+
+In our groceries example, let's say we performed around 9/10 work of our max
+potential. This means our perceived exertion would be at _90%_, or _RPE 9_.
+
+Now imagine a second scenario where the groceries would be 1/3 of the weight we
+can handle. You'd probably just casually walk to your car, put them there,
+started your car and drove off home. The graph of your power output would look
+like this:
+
+```
+TODO
+^ power
+| ------- max power
+|
+|
+| ------- performed power
+---------> time
+
+PE = W / W_max * 100%
+   = ~30%
+```
+
+Suddenly our perceived exertion drops from RPE 9 to RPE 3. Research shows that
+lower RPE tasks are easier to recover from acutely[^13], as well as causing less
+fatigue accumulation[^14]. By living in lower RPEs, you are literally making
+your life easier!
+
+You may wonder, how do we go about lowering our RPE, if we actually need to
+carry all the heavy groceries? Well, simply by **increasing our work capacity**!
+We cannot make groceries lighter, but we can _become stronger_ so that the
+groceries _seem lighter to us_.
+
+Same goes for grandparents chasing their grandchildren around — increasing their
+endurance makes playing with kids much easier by dropping RPE significantly,
+allowing grandparents to play longer, recover faster and literally making the
+whole experience much more enjoyable.
+
+Improving your fitness literally _makes living life easier_. Tasks tire you less
+short-term and you accumulate less fatigue in general. Your baseline energy
+levels will improve[^15]. You literally drop your life RPE by **buffering your
+fitness**!
+
+Again, evidence about buffering fitness goes beyond math and RPE. Increased
+energy levels happen at the cellular level by improving mitochondria
+health[^16][^17], and that is achieved by improving our fitness[^18].
+
+# Implications
 
 _TODO_ practical implications
 
 # Footnotes
 
 [^1]:
-    [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
+
+[Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
 
 [^2]:
-    [Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
+
+[Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
 
 [^3]:
-    [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
+
+[Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
 
 [^4]:
-    [Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
+
+[Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
 
 [^5]:
-    [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
+
+[Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
 
 [^6]:
-    [Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
+
+[Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
 
 [^7]:
-    [Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
+
+[Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
 
 [^8]:
-    [Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
+
+[Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
 
 [^9]:
-    [Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
+
+[Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
 
 [^10]:
-    [Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
+
+[Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
 
 [^11]:
-    [Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
+
+[Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
 
 [^12]:
-    [High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
+
+[High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
 
 [^13]:
-    [Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
+
+[Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
 
 [^14]:
-    [Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
+
+[Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
+
+[^15]:
+
+[Physical activity and feelings of energy and fatigue](https://pubmed.ncbi.nlm.nih.gov/16937952/)
+
+[^16]:
+
+[Regulation and Dysregulation of Cellular Energy Supply and Metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700424/)
+
+[^17]:
+
+[Mitochondria—Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
+
+[^18]:
+
+[Exercise and mitochondrial health](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278853)
