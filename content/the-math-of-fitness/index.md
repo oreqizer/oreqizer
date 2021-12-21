@@ -300,10 +300,7 @@ PE = W / W_max * 100%
    = ~30%
 ```
 
-Suddenly our perceived exertion drops from RPE 9 to RPE 3. Research shows that
-lower RPE tasks are easier to recover from acutely[^13], as well as causing less
-fatigue accumulation[^14]. By living in lower RPEs, you are literally making
-your life easier!
+Suddenly our perceived exertion drops from RPE 9 to RPE 3.
 
 You may wonder, how do we go about lowering our RPE, if we actually need to
 carry all the heavy groceries? Well, simply by **increasing our work capacity**!
@@ -316,13 +313,13 @@ allowing grandparents to play longer, recover faster and literally making the
 whole experience much more enjoyable.
 
 Improving your fitness literally _makes living life easier_. Tasks tire you less
-short-term and you accumulate less fatigue in general. Your baseline energy
-levels will improve[^15]. You literally drop your life RPE by **buffering your
-fitness**!
+short-term[^13] and you accumulate less fatigue in general[^14]. Your baseline
+energy levels will improve[^15]. You literally drop your life RPE by **buffering
+your fitness**!
 
 Again, evidence about buffering fitness goes beyond math and RPE. Increased
 energy levels happen at the cellular level by improving mitochondria
-health[^16][^17], and that is achieved by improving our fitness[^18].
+health[^16][^17], and that is achieved by training[^18].
 
 # Implications
 
