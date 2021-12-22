@@ -269,15 +269,15 @@ A commonly used ranking system is **Rating of Perceived Exertion**, or **RPE**
 for short. For simplicity, an implementation that could be applied in our
 example is simply transferring percent to a 1-10 numeric scale by rounding:
 
-| Perceived exertion % | RPE |
-| -------------------- | --- |
-| 0-14%                | 1   |
-| 15-24%               | 2   |
-| 25-34%               | 3   |
-| ...                  | ... |
-| 75-84%               | 8   |
-| 85-94%               | 9   |
-| 95-100%              | 10  |
+| Perceived exertion | RPE |
+| ------------------ | --- |
+| 0-14%              | 1   |
+| 15-24%             | 2   |
+| 25-34%             | 3   |
+| ...                | ... |
+| 75-84%             | 8   |
+| 85-94%             | 9   |
+| 95-100%            | 10  |
 
 In our groceries example, let's say we performed around 9/10 work of our max
 potential. This means our perceived exertion would be at _90%_, or _RPE 9_.
@@ -300,7 +300,7 @@ PE = W / W_max * 100%
    = ~30%
 ```
 
-Suddenly our perceived exertion drops from RPE 9 to RPE 3.
+Suddenly our perceived exertion of carrying groceries drops from RPE 9 to RPE 3.
 
 You may wonder, how do we go about lowering our RPE, if we actually need to
 carry all the heavy groceries? Well, simply by **increasing our work capacity**!
@@ -312,89 +312,172 @@ endurance makes playing with kids much easier by dropping RPE significantly,
 allowing grandparents to play longer, recover faster and literally making the
 whole experience much more enjoyable.
 
-Improving your fitness literally _makes living life easier_. Tasks tire you less
+Improving fitness literally _makes living life easier_. Tasks tire you less
 short-term[^13] and you accumulate less fatigue in general[^14]. Your baseline
 energy levels will improve[^15]. You literally drop your life RPE by **buffering
 your fitness**!
 
 Again, evidence about buffering fitness goes beyond math and RPE. Increased
 energy levels happen at the cellular level by improving mitochondria
-health[^16][^17], and that is achieved by training[^18].
+health[^16][^17], and that is achieved by training[^18]. There's even a
+study[^19] confirming that the _more exercise you can do and recover from the
+better_, even at top intensities (particularly for women).
 
 # Implications
 
-_TODO_ practical implications
+Now that we established the _formula for fitness_ and why we want to _maximize
+fitness_, we're going to bring the abstract idea that was presented back to
+earth, focusing on specifics of human movement and development.
 
-# Footnotes
+## Foundation
+
+There are ten commonly recognized fitness domains[^20], split into five
+_physical_ and five _neurological_ domains.
+
+The _physical_ domains cause alterations in body tissues when developed:
+
+1. Endurance - Performing an activity for an extended period of time
+2. Stamina - Performing an activity for a period of time at maximal effort
+3. Strength - Force production in a given context
+4. Flexibility - Maximizing range of motion of a joint
+5. Power - Applying maximum force in minimum time
+
+The _neurological_ domains are purely skill-based:
+
+6. Speed - Minimizing time cycle of a repeated movement
+7. Coordination - Combining movement patterns to a single movement
+8. Agility - Minimizing transition time from one movement pattern to another
+9. Balance - Controlling the body's center of gravity in relation to its support
+   base
+10. Accuracy - Controlling movement in a given direction or intensity
+
+While everybody strives for at least _some_ level of competence in all of these
+domains, the person's lifestyle and goals ultimately dictate the importance of
+each one domain.
+
+In addition, not all domains are created equal. Consider the formula for _work_
+and _power_:
+
+```
+TODO
+W = F * d
+P = dW / dt
+```
+
+As you can see, work `W` is composed of _force production_ for a _distance_.
+Power `P` is work done as quickly as possible. Work can also be expressed as
+area under the curve of a function of _power_ for a certain _time_, as we did in
+earlier chapters. Either way, to maximize work, we have to maximize _force_ and
+_distance_, or maximize _time_ while maintaining _power_.
+
+The four common variables in the formulae that we strive to maximize are:
+
+- **Power** itself
+- Force production, ergo **strength**
+- Distance, ergo **endurance**
+- Time while maintaining power, ergo **stamina**
+
+These are what I call the _developmental fitness domains_, ones that we strive
+to develop to their maximum at all times, as they are the ones that maximize our
+fitness.
+
+The rest of the fitness domains, that is flexibility, speed, coordination,
+agility, balance and accuracy, are _elementary fitness domains_. Being
+proficient enough in them is necessary to work on _developmental fitness
+domains_ in an optimal and safe way. However, trying to maximize them brings
+little to no benefit.
+
+## Goals
+
+_TODO_ sport-specific distributions of powerlifters/werightlifters vs marathon
+runners, that life is jack-of-all-trades 80% of each
+
+# Training
+
+_TODO actual training, how-to, why-to, training economy..._
+
+## Movement patterns
+
+_TODO_ choosing movement patterns based on goals, why powerlifts, weightlifts,
+strongman, gymnastics, odd objects (sandbags, kettlebells), monostructurals
+
+## Phases
+
+_TODO_ strength & gainz, vs. conditioning & shredz, sports specificity
 
 [^1]:
-
-[Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
+    [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
 
 [^2]:
-
-[Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
+    [Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
 
 [^3]:
-
-[Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
+    [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
 
 [^4]:
-
-[Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
+    [Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
 
 [^5]:
-
-[Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
+    [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
 
 [^6]:
-
-[Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
+    [Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
 
 [^7]:
-
-[Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
+    [Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
 
 [^8]:
-
-[Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
+    [Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
 
 [^9]:
-
-[Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
+    [Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
 
 [^10]:
-
-[Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
+    [Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
 
 [^11]:
-
-[Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
+    [Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
 
 [^12]:
-
-[High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
+    [High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
 
 [^13]:
-
-[Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
+    [Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
 
 [^14]:
-
-[Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
+    [Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
 
 [^15]:
-
-[Physical activity and feelings of energy and fatigue](https://pubmed.ncbi.nlm.nih.gov/16937952/)
+    [Physical activity and feelings of energy and fatigue](https://pubmed.ncbi.nlm.nih.gov/16937952/)
 
 [^16]:
-
-[Regulation and Dysregulation of Cellular Energy Supply and Metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700424/)
+    [Regulation and Dysregulation of Cellular Energy Supply and Metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700424/)
 
 [^17]:
-
-[Mitochondria—Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
+    [Mitochondria-Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
 
 [^18]:
+    [Exercise and mitochondrial health](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278853)
 
-[Exercise and mitochondrial health](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278853)
+[^19]:
+    [Accelerometer measured physical activity and the incidence of cardiovascular disease](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003487#)
+
+[^20]:
+    [Foundations of CrossFit](http://journal.crossfit.com/2002/04/foundations.tpl)
+
+<!--  -->
+
+[^21]:
+    [Effects of Resistance Exercise on Bone Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6279907/)
+
+[^22]:
+    [Strength training in older adults: The benefits for osteoarthritis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3606891/)
+
+[^23]:
+    [Blood pressure response to resistance training in hypertensive and normotensive older women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898885/)
+
+[^24]:
+    [Power Training Improves Balance in Healthy Older Adults](https://academic.oup.com/biomedgerontology/article/61/1/78/549634)
+
+[^25]:
+    [Effects of Exercise to Improve Cardiovascular Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6557987/)
