@@ -389,8 +389,66 @@ little to no benefit.
 
 ## Goals
 
-_TODO_ sport-specific distributions of powerlifters/werightlifters vs marathon
-runners, that life is jack-of-all-trades 80% of each
+Choosing how to balance training individual developmental domains, as well as to
+what extend should we work on elementary domains, is highly individual. There
+are two general cases, however, that should be considered:
+
+- Focused development for sport-specific needs
+- Balanced development for improving everyday life
+
+_Focused development_ means favoring one spectrum of time domain when developing
+work capacity by focusing primarily on certain developmental domains, training
+others only to a point that _does not interfere with their primary focus_.
+
+For example, powerlifters focus on getting as _strong_ as possible,
+weightlifters maximize their _power_. Both of these sports favor the very
+beginning of the time domain, creating a steep power curve:
+
+```
+TODO
+^ power
+|\
+| \______ str/pow
+---------> time
+```
+
+On the contrary, long-distance runners and cyclists maximize _endurance_, which
+develops the complete opposite of the time domain, thus creating a much flatter
+curve:
+
+```
+TODO
+^ power
+|____      end
+|    ----
+---------> time
+```
+
+These athletes focus on their sport first and foremost. Anything else is
+peripheral for them.
+
+_Balanced development_ means splitting effort put into developmental domains in
+a balanced way, maybe favoring some due to personal preference. This means
+becoming sort of a _jack-of-all-trades_ if you will, being _good at everything_
+yet _perfect at nothing_.
+
+Instead of going all-in in one time spectrum and then just barely in the rest,
+you focus on being proficient everywhere and filling gaps where they pop up,
+creating a balanced power curve. This approach builds the most fitness —
+maximizes work capacity across the time domain:
+
+```
+TODO
+^ power
+|-__
+|   \--__ balanced
+---------> time
+```
+
+Balanced development is ideal for improving everyday life, since you gather all
+of the health benefits of all fitness domains, are able to perform all tasks at
+a low RPE, and a cherry on top is that this approach builds, according to many,
+the best physique possible! :fire:
 
 # Training
 
@@ -398,12 +456,18 @@ _TODO actual training, how-to, why-to, training economy..._
 
 ## Movement patterns
 
-_TODO_ choosing movement patterns based on goals, why powerlifts, weightlifts,
-strongman, gymnastics, odd objects (sandbags, kettlebells), monostructurals
+_TODO_ choosing movement patterns based on goals, importance of variety,
+choosing complexity. why powerlifts, weightlifts, strongman, gymnastics, odd
+objects (sandbags, kettlebells), monostructurals
+
+## Benchmarks
+
+_TODO_ creating benchmarks from picked movements, scoring
 
 ## Phases
 
-_TODO_ strength & gainz, vs. conditioning & shredz, sports specificity
+_TODO_ basic vs. strength & muscle, vs. conditioning & gymnastics, sports
+specificity
 
 [^1]:
     [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
@@ -464,20 +528,3 @@ _TODO_ strength & gainz, vs. conditioning & shredz, sports specificity
 
 [^20]:
     [Foundations of CrossFit](http://journal.crossfit.com/2002/04/foundations.tpl)
-
-<!--  -->
-
-[^21]:
-    [Effects of Resistance Exercise on Bone Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6279907/)
-
-[^22]:
-    [Strength training in older adults: The benefits for osteoarthritis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3606891/)
-
-[^23]:
-    [Blood pressure response to resistance training in hypertensive and normotensive older women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898885/)
-
-[^24]:
-    [Power Training Improves Balance in Healthy Older Adults](https://academic.oup.com/biomedgerontology/article/61/1/78/549634)
-
-[^25]:
-    [Effects of Exercise to Improve Cardiovascular Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6557987/)
