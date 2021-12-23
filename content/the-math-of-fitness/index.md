@@ -387,7 +387,7 @@ proficient enough in them is necessary to work on _developmental fitness
 domains_ in an optimal and safe way. However, trying to maximize them brings
 little to no benefit.
 
-## Goals
+## Power curve
 
 Choosing how to balance training individual developmental domains, as well as to
 what extend should we work on elementary domains, is highly individual. There
