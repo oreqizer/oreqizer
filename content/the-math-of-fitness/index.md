@@ -231,7 +231,7 @@ years_!
 While this is all presented using abstract math, the impact of fitness
 improvements during aging is well-established[^7], including the benefits of
 resistance training[^8][^9], aerobic and anaerobic training[^10][^11], and power
-training[^12].
+training[^12]. Fitness literally _is physical health_.
 
 ## Perceived exertion
 
@@ -327,12 +327,12 @@ better_, even at top intensities (particularly for women).
 
 Now that we established the _formula for fitness_ and why we want to _maximize
 fitness_, we're going to bring the abstract idea that was presented back to
-earth, focusing on specifics of human movement and development.
+earth, focusing on specifics of human physical development.
 
 ## Foundation
 
-There are ten commonly recognized fitness domains[^20], split into five
-_physical_ and five _neurological_ domains.
+There are ten commonly recognized fitness domains[^20], split into four
+_physical_, four _neurological_ and two _combined_ domains.
 
 The _physical_ domains cause alterations in body tissues when developed:
 
@@ -340,11 +340,14 @@ The _physical_ domains cause alterations in body tissues when developed:
 2. Stamina - Performing an activity for a period of time at maximal effort
 3. Strength - Force production in a given context
 4. Flexibility - Maximizing range of motion of a joint
+
+The _combined_ domains cause both tissue adaptations and skill development:
+
 5. Power - Applying maximum force in minimum time
+6. Speed - Minimizing time cycle of a repeated movement
 
 The _neurological_ domains are purely skill-based:
 
-6. Speed - Minimizing time cycle of a repeated movement
 7. Coordination - Combining movement patterns to a single movement
 8. Agility - Minimizing transition time from one movement pattern to another
 9. Balance - Controlling the body's center of gravity in relation to its support
@@ -398,7 +401,8 @@ are two general cases, however, that should be considered:
 
 _Focused development_ means favoring one spectrum of time domain when developing
 work capacity by focusing primarily on certain developmental domains, training
-others only to a point that _does not interfere with their primary focus_.
+others only to a point that _does not interfere with their sport's primary
+focus_.
 
 For example, powerlifters focus on getting as _strong_ as possible,
 weightlifters maximize their _power_. Both of these sports favor the very
@@ -429,7 +433,7 @@ peripheral for them.
 
 _Balanced development_ means splitting effort put into developmental domains in
 a balanced way, maybe favoring some due to personal preference. This means
-becoming sort of a _jack-of-all-trades_ if you will, being _good at everything_
+becoming sort of a _jack-of-all-trades_ if you will, being _great at everything_
 yet _perfect at nothing_.
 
 Instead of going all-in in one time spectrum and then just barely in the rest,
@@ -452,17 +456,82 @@ the best physique possible! :fire:
 
 # Training
 
-_TODO actual training, how-to, why-to, training economy..._
+We've talked about _what_ we want to achieve and _why_ we want to achieve it
+quite enough, now let's look at _how_ to achieve our fitness goals.
 
-## Movement patterns
+As Mark Rippetoe summed it up[^21]:
 
-_TODO_ choosing movement patterns based on goals, importance of variety,
-choosing complexity. why powerlifts, weightlifts, strongman, gymnastics, odd
-objects (sandbags, kettlebells), monostructurals
+> Training is physical activity done with a longer-term goal in mind, the
+> constituent workouts of which are specifically designed to produce that goal.
+
+Our overarching goal is increasing work capacity, and training is going to
+reflect that. Because we want to cover a broad time and modal domain, training
+is going to adapt to address any weaknesses that pop up, while maintaining
+constant progression in our developmental fitness domains.
+
+## Movements
+
+Because it is impossible to train explicitly for every single activity we want
+to do in life, we have to identify the _most complete set of movement patterns_
+to fit our goals. In addition to including patterns that are sport-specific if
+we practice a sport, the desired movement set contains patterns for the most
+complete development.
+
+There's three types of movements, each serving a different purpose:
+
+- _Monostructural_ movements enhance aerobic and anaerobic capacity
+- _Strict_ movements increase strength and are ideal for hypertrophy
+- _Power_ movements are for raw power output
+
+### Monostructural
+
+Monostructural movements are basically "cardio", a class of simple movements
+that can be done back-to-back in a cyclic fashion, such as running, cycling,
+swimming, walking, jump rope. Their primary role is developing _aerobic and
+anaerobic capacity, VO2 max and lactic threshold_, depending on the chosen
+intensity and activity length.
+
+The choice of movement is pretty much a matter of preference, though some
+movements may be more fit for certain tasks than others. For example, scalable
+full-body machines like _air bike_, _rower_ or _ski erg_ are ideal for targeting
+different intensity levels. Jump rope, on the other hand, is ideal for teaching
+coordination and speed.
+
+### Strict
+
+Strict movements are performed with control. They contain a controlled eccentric
+phase and a forceful concentric phase. These are your go-to big compound lifts,
+isolation exercises, calisthenic movements, machines.
+
+Due to the eccentric phase being present, they're ideal for stimulating
+_hypertrophy_. Their controlled nature is also great for maximizing force
+production, thus _strength_, because time is not a factor in the execution.
+
+The _bare minimum_ of strict movement patterns everybody should develop:
+
+- Squat
+- Hip hinge
+- Push
+- Pull
+
+### Power
+
+_TODO_ movements for raw power output
 
 ## Benchmarks
 
-_TODO_ creating benchmarks from picked movements, scoring
+_TODO_ add talk about finally being done with abstractions, tell that tasks are
+inherently bound to some time spectrum, so flatten context and time. elaborate
+that we need to cover many contexts in many time domains
+
+_TODO_ choosing benchmarks based on goals, importance of variety,
+choosing complexity. why powerlifts, weightlifts, strongman, gymnastics, odd
+objects (sandbags, kettlebells), monostructurals
+
+## Adaptations
+
+_TODO_ brief explanation of the "gain zone" of hypertrophy, strength, power. and
+"engine zone" of aerobic and anaerobic capacity, VO2max, lactic threshold
 
 ## Phases
 
@@ -528,3 +597,12 @@ specificity
 
 [^20]:
     [Foundations of CrossFit](http://journal.crossfit.com/2002/04/foundations.tpl)
+
+[^21]:
+    [Training vs. Exercise](https://startingstrength.com/article/training_vs_exercise)
+
+[^-]:
+    [The Principle of Overload](https://www.jtsstrength.com/smart-training-is-hard-training-the-principle-of-overload/)
+
+[^-]:
+    [HIIT Leads to Greater Improvements in Acute Heart Rate Recovery and Anaerobic Power as HVLIT in Advanced Athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539186/)
