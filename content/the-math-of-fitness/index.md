@@ -137,7 +137,7 @@ mathematical representation of **fitness**:
 
 ```
 TODO draw and graph this:
-Fitness = i=0_sum^n s=0_int^S t=0_int^s P(t, s, Ci) * dt
+Fitness = i=0_sum^n (s=0_int^S t=0_int^s P(t, s, Ci) * dt) / n
 ```
 
 For each context `Ci`, we calculate _work capacity_ for that context in a broad
@@ -472,51 +472,67 @@ constant progression in our developmental fitness domains.
 ## Movements
 
 Because it is impossible to train explicitly for every single activity we want
-to do in life, we have to identify the _most complete set of movement patterns_
-to fit our goals. In addition to including patterns that are sport-specific if
-we practice a sport, the desired movement set contains patterns for the most
-complete development.
+to do in life, we have to identify the _most complete set of movements_ to fit
+our goals. Our base movement set contains patterns for our most complete
+development. In addition, we include movements that are sport-specific if we
+practice a sport.
 
-There's three types of movements, each serving a different purpose:
-
-- _Monostructural_ movements enhance aerobic and anaerobic capacity
-- _Strict_ movements increase strength and are ideal for hypertrophy
-- _Power_ movements are for raw power output
-
-### Monostructural
-
-Monostructural movements are basically "cardio", a class of simple movements
-that can be done back-to-back in a cyclic fashion, such as running, cycling,
-swimming, walking, jump rope. Their primary role is developing _aerobic and
-anaerobic capacity, VO2 max and lactic threshold_, depending on the chosen
-intensity and activity length.
-
-The choice of movement is pretty much a matter of preference, though some
-movements may be more fit for certain tasks than others. For example, scalable
-full-body machines like _air bike_, _rower_ or _ski erg_ are ideal for targeting
-different intensity levels. Jump rope, on the other hand, is ideal for teaching
-coordination and speed.
-
-### Strict
-
-Strict movements are performed with control. They contain a controlled eccentric
-phase and a forceful concentric phase. These are your go-to big compound lifts,
-isolation exercises, calisthenic movements, machines.
-
-Due to the eccentric phase being present, they're ideal for stimulating
-_hypertrophy_. Their controlled nature is also great for maximizing force
-production, thus _strength_, because time is not a factor in the execution.
-
-The _bare minimum_ of strict movement patterns everybody should develop:
+Different authorities specify different _movement patterns_ when classifying
+_basic movement patterns_. I am going to pick the most prevalent ones you can
+find:
 
 - Squat
-- Hip hinge
+- Hinge
+- Lunge
 - Push
 - Pull
+- Carry
 
-### Power
+The majority of specific movements and human activities are composed of these
+patterns, thus our training will revolve around developing them.
 
-_TODO_ movements for raw power output
+Next, we classify movements based on their developmental purpose:
+
+- _Monostructural_ movements enhance _aerobic and anaerobic capacity_
+- _Strict_ movements are ideal for increasing _strength_ and _hypertrophy_
+- _Power_ movements allow maximal _power_ output
+
+Finally, to pick specific movements we want to develop, we can look at existing
+sports for inspiration, since they contain a plethora of awesome movements to
+choose from. The more we pick the better, the more well rounded our fitness will
+be! :muscle:
+
+All three lifts of **powerlifting** — the _squat_, _deadlift_ and _bench press_,
+together with the _strict press_, are awesome for developing both strength and
+hypertrophy. As barbell movements, they're highly loadable and have great
+carryover to other movements.
+
+The sport of **weightlifting** has the most loadable barbell power movements out
+of all disciplines. The _clean & jerk_ and _snatch_ require great mobility and
+their technical nature develops coordination and balance. These movements can
+also be performed with kettlebells or dumbbells.
+
+Working with one's own body with **gymnastics** builds enormous relative upper
+body strength, trunk stability, balance, coordination and agility. The core
+strict movements are the _pull-up_, _dip_, _push-up_, _rope climbs_,
+_handstands_ and _leg raises_. Power movements include the _muscle-up_, _jumps_
+and kipping versions of strict movements. Because bodyweight is the main loading
+factor, being rather lean is a big advantage.
+
+The disciplines found in **strongman** include _carrying_, _displacing_ and
+_tossing_ odd objects in various ways. These movements have awesome carryover to
+everyday life, challenge coordination and balance, build stability and are great
+for raw power output.
+
+While **bodybuilding** has been often frowned upon for being pure vanity, its
+isolation exercises are great for building muscle mass with minimal fatigue cost
+and for addressing muscular weak points. They are also a viable prehab and rehab
+tool.
+
+Finally, the **monostructural** movements like _running_, _air bike_, _rower_,
+_skierg_ and _jump rope_ are perfect for building aerobic and anaerobic
+capacity. In addition, machines are very practical for targeted intensity
+training for improving VO2 max and lactic threshold.
 
 ## Benchmarks
 
@@ -524,19 +540,20 @@ _TODO_ add talk about finally being done with abstractions, tell that tasks are
 inherently bound to some time spectrum, so flatten context and time. elaborate
 that we need to cover many contexts in many time domains
 
-_TODO_ choosing benchmarks based on goals, importance of variety,
-choosing complexity. why powerlifts, weightlifts, strongman, gymnastics, odd
-objects (sandbags, kettlebells), monostructurals
-
 ## Adaptations
 
 _TODO_ brief explanation of the "gain zone" of hypertrophy, strength, power. and
 "engine zone" of aerobic and anaerobic capacity, VO2max, lactic threshold
 
-## Phases
+- base building hypertrophy and strength
+- raw power output metcons for anaerobic capacity < most volume
+- monostructural for aerobic capacity < 1x
+- lactic threshold training < 1x
+- HIIT for VO2max < 1x
 
-_TODO_ basic vs. strength & muscle, vs. conditioning & gymnastics, sports
-specificity
+## Examples
+
+_TODO_ specific example for "grandma" training and "optimal" training
 
 [^1]:
     [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
