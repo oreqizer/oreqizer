@@ -499,8 +499,8 @@ Next, we classify movements based on their developmental purpose:
 
 Finally, to pick specific movements we want to develop, we can look at existing
 sports for inspiration, since they contain a plethora of awesome movements to
-choose from. The more we pick the better, the more well rounded our fitness will
-be! :muscle:
+choose from. This is what CrossFit does. The more we pick the better, the more
+well rounded our fitness will be! :muscle:
 
 All three lifts of **powerlifting** — the _squat_, _deadlift_ and _bench press_,
 together with the _strict press_, are awesome for developing both strength and
@@ -536,9 +536,62 @@ training for improving VO2 max and lactic threshold.
 
 ## Benchmarks
 
-_TODO_ add talk about finally being done with abstractions, tell that tasks are
-inherently bound to some time spectrum, so flatten context and time. elaborate
-that we need to cover many contexts in many time domains
+Our previously established formula for fitness displays a perfect world with
+infinitely many contexts across the whole time domain. This is impossible to
+measure in real life. We need a way to best _estimate_ our fitness, and the best
+way is to create a finite dataset that we can interpolate.
+
+In real life tasks, _context_ and _time_ are inherently interconnected. All
+tasks take similar time. Carrying groceries usually takes a few minutes. Running
+5k is mostly done under half an hour. A snatch is completed within a couple of
+seconds. Thus, we will consider _time_ to be a part of _context_ and reflect
+this in our formula for fitness:
+
+```
+TODO also graph this how CF has it at
+https://www.crossfit.com/cf-seminars/CertRefs/CF_Manual_v4.pdf page 23
+
+Fitness = i=0_sum^n (t=0_int^Ci.t P(t, Ci) * dt) / n
+```
+
+Benchmarks are a way to assert that our _fitness is improving over time_. They
+are measurable workouts that show our _work capacity in a specific context_.
+Benchmarks should cover the whole time domain in many contexts to give the best
+estimate of our fitness.
+
+Because it is impossible to measure power across a workout, we have to use a
+_scoring system_. We dedicate a _single measurable variable_ by which we score
+the workout. For example, how much _weight_ we lift for 1 reps, or 5 reps. In
+what _time_ can we run a 5k. How many _rounds_ of a circuit workout can we do in
+15min.
+
+How many benchmarks we choose is up to us, depending on how many skills we want
+to master and whether we have sport-specific priorities. A well-rounded set
+contains at least the following:
+
+- Max weight on the snatch and clean & jerk
+- 1 or 5 rep max on the basic lifts — squat, deadlift, bench press, strict press
+- Max reps and maybe max weight on basic gymnastics — pull-ups, dips, HSPUs
+- Max distance for 1.5x bodyweight farmer carry
+- Metcons with various movements of length roughly 5min, 12min, 25min for max
+  rounds or for time, the more variety the better
+- 5k run for time
+
+This set covers absolute strength and power, strength endurance, relative
+strength. Metcons make sure you're versatile in your power expression and
+skillset, as well as different effort lengths and well-developed anaerobic
+capacity. Last, having a monostructural benchmark asserts our aerobic capacity.
+
+Feel free to add anything measurable that translates well to your life. A mother
+of a toddler? Try sandbag carries for distance and max rep sandbag cleans. Hope
+to improve your cross-country skiing performance? Skierg for max calories in
+10min. Want a glorious butt? :peach: Add in max weight on 10 reps of hip
+thrusts. Be creative!
+
+Regarding monitoring your fitness progress, keep a track of all your scores
+somewhere handy, like your favorite note app on your phone. Test them every 3-6
+months. Use them as a reference for what is going well and what you need to
+improve.
 
 ## Adaptations
 
