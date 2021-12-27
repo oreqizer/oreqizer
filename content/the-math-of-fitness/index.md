@@ -548,9 +548,7 @@ seconds. Thus, we will consider _time_ to be a part of _context_ and reflect
 this in our formula for fitness:
 
 ```
-TODO also graph this how CF has it at
-https://www.crossfit.com/cf-seminars/CertRefs/CF_Manual_v4.pdf page 23
-
+TODO
 Fitness = i=0_sum^n (t=0_int^Ci.t P(t, Ci) * dt) / n
 ```
 
@@ -581,6 +579,15 @@ This set covers absolute strength and power, strength endurance, relative
 strength. Metcons make sure you're versatile in your power expression and
 skillset, as well as different effort lengths and well-developed anaerobic
 capacity. Last, having a monostructural benchmark asserts our aerobic capacity.
+
+If we could measure work done in each of the benchmarks and interpolate the
+results, the graph of our fitness would look something like this:
+
+```
+TODO graph this how CF has it at
+https://www.crossfit.com/cf-seminars/CertRefs/CF_Manual_v4.pdf page 23
+except use work across time spectrum, not power
+```
 
 Feel free to add anything measurable that translates well to your life. A mother
 of a toddler? Try sandbag carries for distance and max rep sandbag cleans. Hope
