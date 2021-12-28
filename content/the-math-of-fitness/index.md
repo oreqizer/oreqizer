@@ -595,21 +595,56 @@ to improve your cross-country skiing performance? Skierg for max calories in
 10min. Want a glorious butt? :peach: Add in max weight on 10 reps of hip
 thrusts. Be creative!
 
-Regarding monitoring your fitness progress, keep a track of all your scores
-somewhere handy, like your favorite note app on your phone. Test them every 3-6
-months. Use them as a reference for what is going well and what you need to
-improve.
+To monitor your fitness progress, keep a track of all your scores somewhere
+handy, like your favorite note app on your phone. Test them every 3-6 months.
+Use them as a reference for what is going well and what you need to improve.
 
 ## Adaptations
 
 _TODO_ brief explanation of the "gain zone" of hypertrophy, strength, power. and
-"engine zone" of aerobic and anaerobic capacity, VO2max, lactic threshold
+"engine zone" of aerobic and anaerobic capacity, VO2max, lactic threshold, and
+"skill zone"
 
 - base building hypertrophy and strength
 - raw power output metcons for anaerobic capacity < most volume
 - monostructural for aerobic capacity < 1x
 - lactic threshold training < 1x
 - HIIT for VO2max < 1x
+
+There's a bunch of adaptations that contribute to your overall fitness, many of
+which require different training styles to achieve them.
+
+### Strength & Power
+
+Increasing our ability to produce maximal force and power not only has benefits
+on its own, it also increases our _strength reserve_, the difference created
+between maximal strength and the strength needed to perform certain physical
+tasks[^22].
+
+One of the ways to get strong and powerful is to train for **hypertrophy** —
+more muscle moves more weight! In addition to building a solid base, having
+dedicated hypertrophy training blocks allows us to focus on weak points, prehab
+and eccentric strength. Subsequent adaptations will get a boost thanks to _phase
+potentiation[^23]_.
+
+The most impactful adaptation is **strength**, the ability to produce force in a
+specific context. It is one of the base variables for power production. We want
+both _absolute_ strength where we move external loads, and _relative_ strength
+when working with our own bodyweight. Strength training benefits from focused
+blocks of lower reps and high intensity. The _principle of overload[^24]_ is key
+to a successful progression.
+
+Working on our **power** production means taking our strength and mixing in
+speed and technical prowess. Power movements benefit from high frequency, and
+due to the lack of an eccentric component, are easy to recover from. Technically
+demanding lifts, like the _snatch_ and _clean & jerk_, should be practiced year
+round in high densities.
+
+### Endurance & Stamina
+
+
+
+### Flexibility
 
 ## Examples
 
@@ -678,7 +713,13 @@ _TODO_ specific example for "grandma" training and "optimal" training
 [^21]:
     [Training vs. Exercise](https://startingstrength.com/article/training_vs_exercise)
 
-[^-]:
+[^22]:
+    [Maximal Strength Programming for Crossfit](https://www.jtsstrength.com/jts-classic-maximal-strength-programming-for-crossfit/)
+
+[^23]:
+    [Principle of Phase Potentiation](https://www.jtsstrength.com/principle-of-phase-potentiation/)
+
+[^24]:
     [The Principle of Overload](https://www.jtsstrength.com/smart-training-is-hard-training-the-principle-of-overload/)
 
 [^-]:
