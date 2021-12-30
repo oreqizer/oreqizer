@@ -388,7 +388,7 @@ The rest of the fitness domains, that is flexibility, speed, coordination,
 agility, balance and accuracy, are _elementary fitness domains_. Being
 proficient enough in them is necessary to work on _developmental fitness
 domains_ in an optimal and safe way. However, trying to maximize them brings
-little to no benefit.
+little to no benefit[^21].
 
 ## Power curve
 
@@ -459,7 +459,7 @@ the best physique possible! :fire:
 We've talked about _what_ we want to achieve and _why_ we want to achieve it
 quite enough, now let's look at _how_ to achieve our fitness goals.
 
-As Mark Rippetoe summed it up[^21]:
+As Mark Rippetoe summed it up[^22]:
 
 > Training is physical activity done with a longer-term goal in mind, the
 > constituent workouts of which are specifically designed to produce that goal.
@@ -601,54 +601,84 @@ Use them as a reference for what is going well and what you need to improve.
 
 ## Adaptations
 
-_TODO_ brief explanation of the "gain zone" of hypertrophy, strength, power. and
-"engine zone" of aerobic and anaerobic capacity, VO2max, lactic threshold, and
-"skill zone"
+Training adaptations can be grouped into three groups that work complementary
+fitness domains:
 
-- base building hypertrophy and strength
-- raw power output metcons for anaerobic capacity < most volume
-- monostructural for aerobic capacity < 1x
-- lactic threshold training < 1x
-- HIIT for VO2max < 1x
+- _Base_ - building muscle mass, increasing strength and power
+- _Engine_ - improving aerobic and anaerobic endurance and stamina
+- _Skill_ - increasing flexibility, speed, and eliminating movement constraints
 
-There's a bunch of adaptations that contribute to your overall fitness, many of
-which require different training styles to achieve them.
+### Base
 
-### Strength & Power
+Large chunk of your training should be centered around building your base by
+growing muscle and maximizing your strength and power. Becoming stronger and
+more powerful boosts your short-duration power curve and greatly increases your
+endurance potential:
 
-Increasing our ability to produce maximal force and power not only has benefits
-on its own, it also increases our _strength reserve_, the difference created
-between maximal strength and the strength needed to perform certain physical
-tasks[^22].
+```
+TODO
+^ draw power boost at start
+| -\ _____ power potential (before was lower)
+|   \_____ current endurance
+---------> time
+```
 
-One of the ways to get strong and powerful is to train for **hypertrophy** —
-more muscle moves more weight! In addition to building a solid base, having
-dedicated hypertrophy training blocks allows us to focus on weak points, prehab
-and eccentric strength. Subsequent adaptations will get a boost thanks to _phase
-potentiation[^23]_.
+Having a period of focused _hypertrophy_ training builds foundation for all
+other base adaptations[^23]. Exercises for building muscle are done with
+controlled form and emphasis on the eccentric part. These blocks of training are
+also important as a injury prevention tool and for targeting weak points.
 
-The most impactful adaptation is **strength**, the ability to produce force in a
-specific context. It is one of the base variables for power production. We want
-both _absolute_ strength where we move external loads, and _relative_ strength
-when working with our own bodyweight. Strength training benefits from focused
-blocks of lower reps and high intensity. The _principle of overload[^24]_ is key
-to a successful progression.
+Training for _strength and power_ involves progressive overload[^24] of the
+weight on the bar, muscular and neural adaptations and improvements in technique
+for lift efficiency. Maximizing strength and power builds strength reserve[^25],
+which makes submaximal effort much less fatiguing, thus allowing greater volume.
 
-Working on our **power** production means taking our strength and mixing in
-speed and technical prowess. Power movements benefit from high frequency, and
-due to the lack of an eccentric component, are easy to recover from. Technically
-demanding lifts, like the _snatch_ and _clean & jerk_, should be practiced year
-round in high densities.
+### Engine
 
-### Endurance & Stamina
+Building a massive engine to run your base means maximizing _aerobic_ and
+_anaerobic capacity_, along with related modalities. It allows you to fully
+express your power for the longest time possible:
 
+```
+TODO
+^
+|-\______ power
+|
+---------> time
+```
 
+The moderate intensity, steady workouts build _aerobic capacity_ as an endurance
+base and they improve fuel efficiency. These are your basic 5k jogs at an
+aerobic threshold pace. You only need about one to two of these a week outside
+of focused blocks.
 
-### Flexibility
+To train _lactate threshold_, include longer duration intervals with little rest
+between sets, for example 3min intervals at threshold pace with 1min active
+rest. You can also do a 20-30 min continuous effort at threshold pace. Again, no
+need to overdo it, once or twice a week is enough when specializing.
+
+Improving your _VO2 max_ and _speed endurance_ is a different beast. _HIIT_
+style workouts work best here, with all-out intervals for 30-60s and about the
+same absolute or active rest. These bring unique benefits even to the advanced
+endurance athlete[^26]. Like always, once a week, or more in a dedicated block.
+
+The absolute best way to improve _anaerobic capacity_ and overall _work
+capacity_ is via _AMRAP_ or _for-time_ metcons. This is because of the variety
+they bring. These have the greatest carryover to your overall fitness by far!
+:weight_lifting_woman: Be sure to build a solid base of strength, power and
+aerobic endurance first before you hop onto these.
+
+### Skill
+
+_TODO_
 
 ## Examples
 
 _TODO_ specific example for "grandma" training and "optimal" training
+
+# Conclusion
+
+_TODO_ sum it the fuck up
 
 [^1]:
     [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
@@ -711,10 +741,10 @@ _TODO_ specific example for "grandma" training and "optimal" training
     [Foundations of CrossFit](http://journal.crossfit.com/2002/04/foundations.tpl)
 
 [^21]:
-    [Training vs. Exercise](https://startingstrength.com/article/training_vs_exercise)
+    [The Case for Retiring Flexibility as a Major Component of Physical Fitness](https://pubmed.ncbi.nlm.nih.gov/31845202/)
 
 [^22]:
-    [Maximal Strength Programming for Crossfit](https://www.jtsstrength.com/jts-classic-maximal-strength-programming-for-crossfit/)
+    [Training vs. Exercise](https://startingstrength.com/article/training_vs_exercise)
 
 [^23]:
     [Principle of Phase Potentiation](https://www.jtsstrength.com/principle-of-phase-potentiation/)
@@ -722,5 +752,8 @@ _TODO_ specific example for "grandma" training and "optimal" training
 [^24]:
     [The Principle of Overload](https://www.jtsstrength.com/smart-training-is-hard-training-the-principle-of-overload/)
 
-[^-]:
+[^25]:
+    [Maximal Strength Programming for CrossFit](https://www.jtsstrength.com/jts-classic-maximal-strength-programming-for-crossfit/)
+
+[^26]:
     [HIIT Leads to Greater Improvements in Acute Heart Rate Recovery and Anaerobic Power as HVLIT in Advanced Athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539186/)
