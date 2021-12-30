@@ -608,6 +608,8 @@ fitness domains:
 - _Engine_ - improving aerobic and anaerobic endurance and stamina
 - _Skill_ - increasing flexibility, speed, and eliminating movement constraints
 
+Each group has its own purpose and complements the other groups.
+
 ### Base
 
 Large chunk of your training should be centered around building your base by
@@ -664,13 +666,37 @@ endurance athlete[^26]. Like always, once a week, or more in a dedicated block.
 
 The absolute best way to improve _anaerobic capacity_ and overall _work
 capacity_ is via _AMRAP_ or _for-time_ metcons. This is because of the variety
-they bring. These have the greatest carryover to your overall fitness by far!
+they bring. These have the greatest carryover to your work capacity, by far!
 :weight_lifting_woman: Be sure to build a solid base of strength, power and
 aerobic endurance first before you hop onto these.
 
 ### Skill
 
-_TODO_
+All the movements you do when training need some level of technical competence
+to perform effectively. Unless speaking about sport-specific skills, the level
+you want to be good in them really comes down to your _learning budget_. You'd
+ideally want to master everything of course, but in the real world, we have to
+prioritize.
+
+Skills need a certain amount of learning time to achieve _basic proficiency_,
+and this time differs greatly between skills. For example, the deadlift can be
+self-taught rather quickly, but a snatch takes weeks of consistent practice.
+This learning curve is used as a large factor in practice prioritization:
+
+- easy skills are enough to practice during _warmups_ and _actual workouts_
+- difficult skills require designated _skill sessions_ and _consistent practice_
+
+Skill sessions are composed of removing _mobility_ constraints, practicing
+_partial movements_ and just plain old _drilling_. They should be light enough
+not to interfere with the rest of training sessions.
+
+Focus on one to three skills at a time, practicing each one _at least twice a
+week_. You can practice as much as you want, the more the better! Refine skills
+as necessary. Skill sessions are best done:
+
+- before _engine sessions_
+- after _base sessions_
+- on rest days or outside of training sessions
 
 ## Examples
 
