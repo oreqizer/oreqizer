@@ -673,10 +673,20 @@ aerobic endurance first before you hop onto these.
 ### Skill
 
 All the movements you do when training need some level of technical competence
-to perform effectively. Unless speaking about sport-specific skills, the level
-you want to be good in them really comes down to your _learning budget_. You'd
-ideally want to master everything of course, but in the real world, we have to
-prioritize.
+to perform effectively. Being proficient in a wide variety of movements allows
+us to express our power in many different contexts:
+
+```
+TODO
+^ power
+| ===
+|    \\=== different contexts
+----------> time
+```
+
+Unless speaking about sport-specific skills, the level you want to be good in
+them really comes down to your _learning budget_. You'd ideally want to master
+everything of course, but in the real world, we have to prioritize.
 
 Skills need a certain amount of learning time to achieve _basic proficiency_,
 and this time differs greatly between skills. For example, the deadlift can be
@@ -698,9 +708,88 @@ as necessary. Skill sessions are best done:
 - after _base sessions_
 - on rest days or outside of training sessions
 
-## Examples
+# Recovery
 
-_TODO_ specific example for "grandma" training and "optimal" training
+_TODO_ SRA curve
+
+Recovery is a necessary component of increasing fitness. Training gives us
+_stimulus_, and in order to _adapt_, we have to _recover_. This flow is known as
+the stimulus, recovery, adaptation curve, or **SRA**:
+
+```
+TODO
+SRA curve graph
+```
+
+_TODO_ graph temporary decrease in fitness for a later increase
+
+## Nutrition
+
+_TODO_ just a note about it being necessary, and protein 2g/kg, fat cca
+0.8-1.2g/kg, carbs rest. quality, fiber, prebiotics
+
+## Sleep
+
+_TODO_ sleep hygiene
+
+## Mindfulness
+
+_TODO_ stress from daily life, meditation
+
+## Active recovery
+
+_TODO_ swimming, hikes, walks, mobility flows
+
+# Programming
+
+Putting all of this into practice, we can create a very rough boilerplate how to
+create our training program. We want our program to be:
+
+- Practical, easy to adhere
+- Progressively challenging
+- As simple as possible
+
+As a general rule, _the day we do not improve, we degrade_. Be sure to do
+something every day to build consistency! Rest days are perfect for light skill
+development — Olympic lifts with a PVC pipe, double-unders, handstands, mobility
+flows.
+
+## Beginner
+
+Beginners, people who have never been through a linear strength program, most
+benefit from a simple _linear progression_ of strength training, something like
+_Starting Strength_ or _5/3/1_. They can add some hypertrophy accessories to the
+mix, especially for the abs. Make sure to eat in a slight surplus to facilitate
+new tissue development!
+
+All they need for endurance sessions are two to three aerobic LISS sessions a
+week, later substituting one for a HIIT session. For grandmas and the less
+conditioned, LISS can be just a longer brisk walk or a hike.
+
+Every session should include a skill practice to get proficient in movements you
+want to learn as quickly as possible, especially _weightlifting_ and
+_gymnastics_.
+
+An example split:
+
+| Day       | Training    |
+| --------- | ----------- |
+| Monday    | Strength    |
+| Tuesday   | LISS        |
+| Wednesday | Strength    |
+| Thursday  | LISS / Rest |
+| Friday    | Strength    |
+| Saturday  | LISS / HIIT |
+| Sunday    | Rest        |
+
+The great thing about being a beginner is that _noob gains_ allow you to train
+everything simultaneously and improve in a linear fashion. Once you're not able
+to linearly progress with strength any further, move onto a _focused_ approach.
+
+## Focused
+
+Intermediate and advanced people benefit a lot more from _phase potentiation_
+...
 
 # Conclusion
 
