@@ -651,8 +651,8 @@ TODO
 
 The moderate intensity, steady workouts build _aerobic capacity_ as an endurance
 base and they improve fuel efficiency. These are your basic 5k jogs at an
-aerobic threshold pace. You only need about one to two of these a week outside
-of focused blocks.
+aerobic pace. You only need about one to two of these a week outside of focused
+blocks.
 
 To train _lactate threshold_, include longer duration intervals with little rest
 between sets, for example 3min intervals at threshold pace with 1min active
