@@ -503,9 +503,9 @@ choose from. This is what CrossFit does. The more we pick the better, the more
 well rounded our fitness will be! :muscle:
 
 All three lifts of **powerlifting** — the _squat_, _deadlift_ and _bench press_,
-together with the _strict press_, are awesome for developing both strength and
-hypertrophy. As barbell movements, they're highly loadable and have great
-carryover to other movements.
+together with the _strict press_ and other barbell lifts, are awesome for
+developing both strength and hypertrophy. As barbell movements, they're highly
+loadable and have great carryover to other movements.
 
 The sport of **weightlifting** has the most loadable barbell power movements out
 of all disciplines. The _clean & jerk_ and _snatch_ require great mobility and
