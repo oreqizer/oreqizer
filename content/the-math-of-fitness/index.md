@@ -736,7 +736,8 @@ _adaptations we can accumulate_ and the faster we can maximize our fitness.
 Nutrition definitely deserves an article on its own, we'll just go through the
 very basics here, like _macros_, _timing_ and _microbiome_. Before we go into
 details, remember one thing — **quality is essential**! Buy local foods, "happy"
-meat, eggs and dairy, avoid processed stuff.
+meat, eggs and dairy, avoid processed stuff. No need to obsess about always
+being on point, just try your best.
 
 Macro split is rather simple:
 
