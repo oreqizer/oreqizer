@@ -4,7 +4,7 @@ date = 2021-12-13
 draft = true
 
 [taxonomies]
-tags = ["gains", "health"]
+tags = ["gains", "fitness", "health"]
 +++
 
 _Fitness_ is one of the most bastardized terms in the industry. No one really
@@ -17,7 +17,7 @@ practical implications that arise in context of life and sport performance.
 These ideas are not new. In fact, Greg Glassman, founder of CrossFit, has talked
 about this interpretation multiple times during his presentations[^1]. I want to
 build upon his ideas and introduce a robust framework for _training for a better
-life_.
+life_! :star:
 
 # Definition
 
@@ -790,15 +790,45 @@ Supplements:
 
 ## Sleep
 
-_TODO_ sleep hygiene
+I cannot, by the nine divines, overstate how fucking important sleep is[^28].
+There's so many benefits to sleep I won't even bother listing them, but a tl;dr
+for you is that it will make you _gain more muscle_, _shred more fat_, be
+_stronger_, _happier_ and _live longer_.
 
-## Mindfulness
+To make you sleep like a king, you got to have a solid _circadian rhythm_ set
+up. First of all, you have to start sleeping on a roughly _consistent schedule_
+and always 7-9h, waking up ideally without an alarm. Go to sleep between 9pm and
+11pm.
 
-_TODO_ stress from daily life, meditation
+Establish a consistent sleep routine. :moon: Sleep in a _cold room with fresh
+air_, ideally _without any electronic devices_. Here's a checklist of things to
+do about _two hours_ before bed:
+
+- Dim lights and large screens, light up candles
+- Put phone away completely, put on your blue light blocking glasses
+- Avoid stress, have a hot bath :bath: and/or a cold shower, have sex, read,
+  meditate
+
+In the morning :sunny:, do the following right after waking up:
+
+1. Keep phone away for at least 1 hour!
+2. Have a real cold shower :shower:
+3. Drink plenty of water, maybe with some electrolytes, at least 3dl
+4. Go watch the sunrise for 5min, optionally do some pranayama and/or mobility
+5. Prepare your breakfast and eat it in peace
 
 ## Active recovery
 
-_TODO_ swimming, hikes, walks, mobility flows
+An awesome and often underutilized way to recover is using low impact physical
+activity to promote blood flow to broken tissues. These can be fun things to do
+in life, like hikes :mountain:, swimming :swimmer:, cycling, easier yoga
+:lotus_position_woman: or mobility flows, or explicit recovery activities like
+sled drags.
+
+An easy way to ramp up active recovery, and shred lots of fat, is by increasing
+_non-exercise activity thermogenesis_, or **NEAT**. This is simply done by
+moving around more, be it walking, chores, childcare. One popular way is simply
+ensuring one walks _at least 10000 steps a day_.
 
 # Programming
 
@@ -935,3 +965,6 @@ _TODO_ sum it the fuck up
 
 [^27]:
     [Safety and efficacy of creatine supplementation in exercise, sport, and medicine](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)
+
+[^28]:
+    [The Extraordinary Importance of Sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281147/)
