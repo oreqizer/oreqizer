@@ -710,23 +710,82 @@ as necessary. Skill sessions are best done:
 
 # Recovery
 
-_TODO_ SRA curve
-
-Recovery is a necessary component of increasing fitness. Training gives us
-_stimulus_, and in order to _adapt_, we have to _recover_. This flow is known as
-the stimulus, recovery, adaptation curve, or **SRA**:
+Recovery is an absolutely necessary component of increasing fitness. Training
+gives us _stimulus_, and in order to _adapt_, we have to _recover_. This flow is
+known as the "stimulus, recovery, adaptation curve", or **SRA curve**:
 
 ```
 TODO
 SRA curve graph
 ```
 
-_TODO_ graph temporary decrease in fitness for a later increase
+Sufficiently hard training creates a _temporary decrease in fitness_. With
+proper recovery, the body adapts to that stress by _increasing our fitness_ so
+that our body is better prepared for that stimulus in the future:
+
+```
+TODO
+graph of neutral line, decrease line, increase line
+```
+
+The better we recover, the more stress we can impose on the body, the more
+_adaptations we can accumulate_ and the faster we can maximize our fitness.
 
 ## Nutrition
 
-_TODO_ just a note about it being necessary, and protein 2g/kg, fat cca
-0.8-1.2g/kg, carbs rest. quality, fiber, prebiotics
+Nutrition definitely deserves an article on its own, we'll just go through the
+very basics here, like _macros_, _timing_ and _microbiome_. Before we go into
+details, remember one thing — **quality is essential**! Buy local foods, "happy"
+meat, eggs and dairy, avoid processed stuff.
+
+Macro split is rather simple:
+
+- Around -20% to +20% of maintenance _calories_, depending if you're shredding
+  or gaining
+- 2g/kg of _protein_
+- 0.8-1.2g/kg _fats_, based on personal needs
+- Fill the rest with _carbs_, to fuel workouts
+
+Eat between _4 to 7 evenly spaced meals a day_, with daily protein split rather
+equally between meals. This ensures you hit _leucine threshold_ each meal, which
+is necessary for maximizing protein synthesis. Try eating some fiber with each
+non-postworkout meal for improved digestion. Eat the bulk of your fat intake for
+dinner, about 2-3h before sleep.
+
+Regarding peri-workout nutrition, the following is the ideal — just try sticking
+to it as close as possible:
+
+- Meal of _protein and carbs_ 1-2h before gym, like a regular lunch or breakfast
+- Optionally _EAAs with a quick carb_, like maltodextrin, during training
+- Quick _protein and carbs_, like cereal with a whey protein shake, right after
+  the gym
+
+Be sure to eat at least one _gut health_ food a day. This includes prebiotic and
+probiotic fermented foods like _sauerkraut_, _kimchi_ and _kombucha_. Foods high
+in FOS like _onions_, _garlic_, _milk_, _wheat_ and _bananas_, and foods high in
+GOS like _beans_ and _lentils_ are necessary for supplying gut bacteria the
+nutrients they need.
+
+Basic food choices:
+
+- Protein - meat and fish, eggs, dairy
+- Fats - olive oil, fish oil, nuts and seeds
+- Carbs - starches like rice and potatoes, sourdough bread, öats :pig2:, quality
+  pasta
+- Fiber and micros - vegetables and fruits, legumes
+- Gut health - fermented products, foods with FOS and GOS
+
+Keep _alcohol_ at <0.5g/kg of bodyweight, max 3x a week. Drink outside of foods,
+at least fatty ones. Last drink at least 2 hours before bed! Best drinks are
+_wines_, _beers_ :beer: and _colorless spirits_.
+
+Supplements:
+
+- _Creatine_ 3-5g a day, everybody and always![^27]
+- _Omega-3_ oil 3-5g a day, with your most fatty food, probably dinner
+- _Magnesium and zinc_ before sleep
+- _EAAs and maltodextrin_ optionally during gym sessions
+- _Whey protein_ with carbs after gym sessions
 
 ## Sleep
 
@@ -872,3 +931,6 @@ _TODO_ sum it the fuck up
 
 [^26]:
     [HIIT Leads to Greater Improvements in Acute Heart Rate Recovery and Anaerobic Power as HVLIT in Advanced Athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539186/)
+
+[^27]:
+    [Safety and efficacy of creatine supplementation in exercise, sport, and medicine](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)
