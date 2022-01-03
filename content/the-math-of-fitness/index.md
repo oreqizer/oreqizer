@@ -797,8 +797,8 @@ _stronger_, _happier_ and _live longer_.
 
 To make you sleep like a king, you got to have a solid _circadian rhythm_ set
 up. First of all, you have to start sleeping on a roughly _consistent schedule_
-and always 7-9h, waking up ideally without an alarm. Go to sleep between 9pm and
-11pm.
+and always aim for _sleeping 7-9 hours_, waking up ideally without an alarm. Go
+to sleep between 9pm and 11pm.
 
 Establish a consistent sleep routine. :moon: Sleep in a _cold room with fresh
 air_, ideally _without any electronic devices_. Here's a checklist of things to
@@ -807,7 +807,8 @@ do about _two hours_ before bed:
 - Dim lights and large screens, light up candles
 - Put phone away completely, put on your blue light blocking glasses
 - Avoid stress, have a hot bath :bath: and/or a cold shower, have sex, read,
-  meditate
+  meditate :lotus_position_woman:
+- No eating anything but casein, and no alcohol
 
 In the morning :sunny:, do the following right after waking up:
 
@@ -821,9 +822,8 @@ In the morning :sunny:, do the following right after waking up:
 
 An awesome and often underutilized way to recover is using low impact physical
 activity to promote blood flow to broken tissues. These can be fun things to do
-in life, like hikes :mountain:, swimming :swimmer:, cycling, easier yoga
-:lotus_position_woman: or mobility flows, or explicit recovery activities like
-sled drags.
+in life, like hikes :mountain:, swimming :swimmer:, cycling, easier yoga or
+mobility flows, or explicit recovery activities like sled drags.
 
 An easy way to ramp up active recovery, and shred lots of fat, is by increasing
 _non-exercise activity thermogenesis_, or **NEAT**. This is simply done by
@@ -849,8 +849,8 @@ flows.
 Beginners, people who have never been through a linear strength program, most
 benefit from a simple _linear progression_ of strength training, something like
 _Starting Strength_ or _5/3/1_. They can add some hypertrophy accessories to the
-mix, especially for the abs. Make sure to eat in a slight surplus to facilitate
-new tissue development!
+mix, especially for the abs. If you're not fat, make sure to eat in a slight
+surplus to facilitate new tissue development!
 
 All they need for endurance sessions are two to three aerobic LISS sessions a
 week, later substituting one for a HIIT session. For grandmas and the less
@@ -879,7 +879,68 @@ to linearly progress with strength any further, move onto a _focused_ approach.
 ## Focused
 
 Intermediate and advanced people benefit a lot more from _phase potentiation_
-...
+and focused training blocks. There are many ways to split training phases for
+different sports. One of the most suitable splits for fitness is altering _base_
+and _engine_ phases.
+
+### Base phase
+
+Base building phases focus on building absolute and relative strength, maximal
+power, and building muscle via accessories. The split can optionally be further
+split into a hypertrophy and strength blocks, but this is likely overkill, and
+only advanced athletes will benefit from the split.
+
+Endurance volume is kept as maintenance, with the volume being very individual.
+One to two LISS sessions and one MIIT / HIIT session should suffice for most.
+One LISS session can be swapped for a longer metcon. Endurance days should
+ideally be paired with skill or mobility work. Strength days can optionally
+contain short, 5-10 min metcons.
+
+Example base building split:
+
+| Day       | Training               |
+| --------- | ---------------------- |
+| Monday    | Strength + Hypertrophy |
+| Tuesday   | Strength + Hypertrophy |
+| Wednesday | LISS / Metcon          |
+| Thursday  | Strength + Hypertrophy |
+| Friday    | MIIT / HIIT            |
+| Saturday  | Strength + Hypertrophy |
+| Sunday    | LISS                   |
+
+For convenience, LISS sessions can also be performed on strength days with
+sufficient time gap, and MIIT / HIIT can even be performed directly after a
+strength session.
+
+### Engine phase
+
+The main focus here is building aerobic and anaerobic endurance, top out lactic
+threshold and VO2 max, as well as realizing power potential gained during a base
+building phase. This phase should contain a handful of metcons with lots of
+variety, including EMOMs to build volume tolerance.
+
+Strength work is focused on improving neural efficiency and maintain muscle
+mass. Lifts can be more varied, reps kept lower.
+
+Lighter skill work can be performed during warmups, more involved skills can be
+practiced on endurance days or after main training sessions.
+
+Example engine building split:
+
+| Day       | Training          |
+| --------- | ----------------- |
+| Monday    | Strength + EMOM   |
+| Tuesday   | Strength + Metcon |
+| Wednesday | MIIT              |
+| Thursday  | Strength + HIIT   |
+| Friday    | Metcon            |
+| Saturday  | Strength + Metcon |
+| Sunday    | LISS              |
+
+The split presented contains a balanced amount of metcons, LISS, MIIT and HIIT
+sessions. The volume can be played around with based on individual needs, though
+this should cover all bases, with a bias towards metcons because they have the
+biggest impact on fitness for most people.
 
 # Conclusion
 
