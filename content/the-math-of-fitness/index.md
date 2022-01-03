@@ -878,23 +878,30 @@ to linearly progress with strength any further, move onto a _focused_ approach.
 
 ## Focused
 
-Intermediate and advanced people benefit a lot more from _phase potentiation_
-and focused training blocks. There are many ways to split training phases for
-different sports. One of the most suitable splits for fitness is altering _base_
-and _engine_ phases.
+Intermediate and advanced people benefit a lot more from _phase potentiation_.
+High volume of work that targets specific adaptations is concentrated to a
+training phase. When the full potential is squeezed from that phase, the program
+switches to a new phase with a different focus.
+
+There are many ways to split training phases for different sports. One of the
+most suitable splits for general fitness is altering _base_ and _engine_ phases.
+This split uses the natural synergy we established when talking about types of
+adaptations, while minimizing potential interferences.
 
 ### Base phase
 
-Base building phases focus on building absolute and relative strength, maximal
-power, and building muscle via accessories. The split can optionally be further
-split into a hypertrophy and strength blocks, but this is likely overkill, and
-only advanced athletes will benefit from the split.
+Base building phases focuses on developing maximal strength and power both via
+hypertrophy and neural adaptations. Compound lifts both for higher and lower
+reps are utilized, paired with accessories to produce optimal muscle gain. A
+great, time efficient way to build power and technique is using EMOMs.
 
 Endurance volume is kept as maintenance, with the volume being very individual.
 One to two LISS sessions and one MIIT / HIIT session should suffice for most.
-One LISS session can be swapped for a longer metcon. Endurance days should
-ideally be paired with skill or mobility work. Strength days can optionally
-contain short, 5-10 min metcons.
+One LISS session can be swapped for a longer metcon. Strength days can
+optionally contain short, 5-10 min metcons.
+
+Endurance days should ideally be paired with skill or mobility work. Lighter
+skill work can also be performed during warmups on strength days.
 
 Example base building split:
 
@@ -912,15 +919,19 @@ For convenience, LISS sessions can also be performed on strength days with
 sufficient time gap, and MIIT / HIIT can even be performed directly after a
 strength session.
 
+Be sure to eat enough calories to aid recovery and fuel workouts. Enjoy all the
+extra carbs going straight to all the right places. :croissant:
+
 ### Engine phase
 
 The main focus here is building aerobic and anaerobic endurance, top out lactic
 threshold and VO2 max, as well as realizing power potential gained during a base
-building phase. This phase should contain a handful of metcons with lots of
-variety, including EMOMs to build volume tolerance.
+building phase. This phase should contain a handful of metcons, ideally with
+lots of variety.
 
-Strength work is focused on improving neural efficiency and maintain muscle
-mass. Lifts can be more varied, reps kept lower.
+Strength work is focused on improving neural efficiency and maintaining muscle
+mass. Lifts can be more varied, reps kept lower. Including EMOMs is a great way
+to build volume tolerance.
 
 Lighter skill work can be performed during warmups, more involved skills can be
 practiced on endurance days or after main training sessions.
@@ -941,6 +952,10 @@ The split presented contains a balanced amount of metcons, LISS, MIIT and HIIT
 sessions. The volume can be played around with based on individual needs, though
 this should cover all bases, with a bias towards metcons because they have the
 biggest impact on fitness for most people.
+
+This phase is ideal for fat loss because all the endurance work burns lots of
+calories. :train: Even if you want to shred, keep calories sufficiently high to
+only be in a reasonable deficit!
 
 # Conclusion
 
