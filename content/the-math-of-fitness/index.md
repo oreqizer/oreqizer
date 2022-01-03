@@ -927,7 +927,7 @@ extra carbs going straight to all the right places. :croissant:
 The main focus here is building aerobic and anaerobic endurance, top out lactic
 threshold and VO2 max, as well as realizing power potential gained during a base
 building phase. This phase should contain a handful of metcons, ideally with
-lots of variety.
+plenty of variety.
 
 Strength work is focused on improving neural efficiency and maintaining muscle
 mass. Lifts can be more varied, reps kept lower. Including EMOMs is a great way
@@ -954,12 +954,24 @@ this should cover all bases, with a bias towards metcons because they have the
 biggest impact on fitness for most people.
 
 This phase is ideal for fat loss because all the endurance work burns lots of
-calories. :train: Even if you want to shred, keep calories sufficiently high to
-only be in a reasonable deficit!
+calories. Even if you want to shred, keep calories sufficiently high to only be
+in a reasonable deficit!
 
 # Conclusion
 
-_TODO_ sum it the fuck up
+Phew, that was a lot! :smile: We went through a proper definition of fitness and
+its mathematical representation. The concept and importance of _fitness
+buffering_ was introduced, together with implications of maximizing fitness.
+Finally, we laid down a high-level framework of building a personal _training
+plan for a better life_, together with _optimal recovery_.
+
+Remember — **you only have one life**. Science is very clear in how to make it
+optimal, both _here and now_, and in _years down the road_. **Maximize your
+fitness**. Get your loved ones involved. :heart: Be strong, grow muscle, build
+your engine, learn skills. The process is brutal, hard, but fun, and _extremely
+rewarding_! :muscle:
+
+Stay strong, friends. :wave:
 
 [^1]:
     [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
