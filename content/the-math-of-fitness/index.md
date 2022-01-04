@@ -832,8 +832,8 @@ ensuring one walks _at least 10000 steps a day_.
 
 # Programming
 
-Putting all of this into practice, we can create a very rough boilerplate how to
-create our training program. We want our program to be:
+Putting all of this into practice, we can create a very high-level boilerplate
+how to create our training program. We want our program to be:
 
 - Practical, easy to adhere
 - Progressively challenging
@@ -846,15 +846,27 @@ flows.
 
 ## Beginner
 
-Beginners, people who have never been through a linear strength program, most
-benefit from a simple _linear progression_ of strength training, something like
-_Starting Strength_ or _5/3/1_. They can add some hypertrophy accessories to the
-mix, especially for the abs. If you're not fat, make sure to eat in a slight
-surplus to facilitate new tissue development!
+Beginners, people who have never been through a _linear strength progression_
+should do just that, something like _Starting Strength_ or _5/3/1_. All they
+need for endurance sessions are two to three aerobic LISS sessions a week, later
+substituting one for a HIIT session.
 
-All they need for endurance sessions are two to three aerobic LISS sessions a
-week, later substituting one for a HIIT session. For grandmas and the less
-conditioned, LISS can be just a longer brisk walk or a hike.
+Strength days should contain big, scalable compound lifts and cover the _whole
+body_ and all core movement patterns:
+
+- Squat - back squat, front squat
+- Press - strict press, bench press, dip
+- Pull - deadlift, chin-up, barbell row
+
+Do around 3 sets of each exercise. Keep reps on barbell lifts around 5, do
+gymnastic movements for max reps. Accessories for 10-20 reps can be added to the
+mix, especially for the _abs_ and _hamstrings_, like leg raises, ab wheel or a
+GHR.
+
+Beginners are best off with building an aerobic base before jumping into more
+intense forms of conditioning, so _monostructural LISS_ activities like running,
+cycling or rowing for about 30min are ideal. For grandmas and the less
+conditioned, a brisk walk will suffice.
 
 Every session should include a skill practice to get proficient in movements you
 want to learn as quickly as possible, especially _weightlifting_ and
@@ -873,8 +885,11 @@ An example split:
 | Sunday    | Rest        |
 
 The great thing about being a beginner is that _noob gains_ allow you to train
-everything simultaneously and improve in a linear fashion. Once you're not able
-to linearly progress with strength any further, move onto a _focused_ approach.
+everything simultaneously and improve in a linear fashion. If you're not fat,
+make sure to eat in a slight surplus to facilitate new tissue development!
+
+Once you're not able to linearly progress with strength any further, move onto a
+_focused_ approach.
 
 ## Focused
 
@@ -891,14 +906,23 @@ adaptations, while minimizing potential interferences.
 ### Base phase
 
 Base building phases focuses on developing maximal strength and power both via
-hypertrophy and neural adaptations. Compound lifts both for higher and lower
-reps are utilized, paired with accessories to produce optimal muscle gain. A
-great, time efficient way to build power and technique is using EMOMs.
+hypertrophy and neural adaptations. Endurance volume is kept at maintenance to
+avoid tapping into strength work recovery.
 
-Endurance volume is kept as maintenance, with the volume being very individual.
-One to two LISS sessions and one MIIT / HIIT session should suffice for most.
-One LISS session can be swapped for a longer metcon. Strength days can
-optionally contain short, 5-10 min metcons.
+Strength work is more nuanced now. Frequency of training core movement patterns
+is based on one's recoverability and can range between 1-4 times a week for a
+movement pattern. Strength day structure can look something like this:
+
+- Main strength and power work, 1-2 exercises
+- Assistance strength work, 1-2 exercises
+- Hypertrophy work, 1-5 exercises
+
+Reps are always around 3-6 for strength work and 5-30 for hypertrophy. A great,
+time efficient way to build power and technique is using EMOMs.
+
+Endurance wise, one to two LISS sessions and one MIIT / HIIT session should
+suffice for most. One LISS session can be swapped for a longer metcon. Strength
+days can optionally contain short, 5-10 min metcons.
 
 Endurance days should ideally be paired with skill or mobility work. Lighter
 skill work can also be performed during warmups on strength days.
@@ -930,8 +954,8 @@ building phase. This phase should contain a handful of metcons, ideally with
 plenty of variety.
 
 Strength work is focused on improving neural efficiency and maintaining muscle
-mass. Lifts can be more varied, reps kept lower. Including EMOMs is a great way
-to build volume tolerance.
+mass. Lifts can be more varied, reps kept lower, and little hypertrophy work is
+present. The rest is pretty much the same as in the base phase.
 
 Lighter skill work can be performed during warmups, more involved skills can be
 practiced on endurance days or after main training sessions.
