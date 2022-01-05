@@ -14,7 +14,7 @@ Strength and muscle is often an indicator of fitness as well. The list goes on.
 
 I am going to offer a mathematical interpretation of fitness, along with
 practical implications that arise in context of life and sport performance.
-These ideas are not new. In fact, Greg Glassman, founder of CrossFit, has talked
+These ideas are not new. Greg Glassman, the founder of CrossFit, has talked
 about this interpretation multiple times during his presentations[^1]. I want to
 build upon his ideas and introduce a robust framework for _training for a better
 life_! :star:
@@ -27,7 +27,7 @@ If you search for the term "fitness", you get a bunch of definitions:
 
 The first definition, "the condition of being physically fit and healthy" is
 ambiguous — how should one interpret "fit"? Most people will give completely
-different answers.
+different answers, and most of these people will be wrong.
 
 The second definition, "the quality of being suitable to fulfil a particular
 role or task" is more interesting. Applying it on the prior definition, we can
@@ -83,7 +83,7 @@ given period of time_ in the _context_ of the task.
 ## Work capacity
 
 How do we optimize our ability to perform the tasks we want, participate in
-sports, thus increase our "fitness"? With power being the common variable, we
+sports, thus increasing our "fitness"? With power being the common variable, we
 want to be able to _exert as much power as possible for a certain period of
 time_ in a specific context. In other words, we want to be able to _perform as
 much work as possible within a time frame_.
@@ -101,49 +101,49 @@ TODO draw and graph this:
 W = t=0_int^T P(t) * dt
 ```
 
-For a specific time `T`, in order to maximize work capacity `W`, we have to
-maximize the _area under the curve_ of the graph. That means maximizing average
-power `P` within the time.
+For a specific time `T`, in order to maximize work `W`, we have to maximize the
+_area under the curve_ of the graph. That means maximizing average power `P`
+within the time.
 
-The amount of work we can produce within a certain time is our _work capacity_
-for that time frame.
+The maximum amount of work we can produce within a certain time is our _work
+capacity_ for that time frame.
 
-## Work spectrum
+## Time domain
 
 Maximizing work capacity in just a single time frame is very limiting. We want
 to maximize our work capacity across a _broad time domain_. Going up a
 dimension, we can illustrate a _spectrum of work capacities_, which is the
 volume under the plane formed by _work capacities of different time frames_. I
-am going to call it _work spectrum_:
+am going to call it _work capacity spectrum_:
 
 ```
 TODO draw and graph this:
-WS = s=0_int^S t=0_int^s P(t, s) * dt
+WS = s=0_int^S t=0_int^s P(t, s) * dt ds
 ```
 
 Within the time domain from zero to `S` we calculate our _work capacity_ in each
 time frame. To maximize the _volume under the plane_ of the graph we have to
 maximize the average power `P` for each time frame.
 
-## Context specificity
+## Context domain
 
-The established _work spectrum_ formula assumes a seamless carryover between
-contexts, meaning that having a certain work capacity in one context means
-having the same capacity in all contexts. This assumption, however, violates the
-rule of context specificity[^2].
+The established _work capacity spectrum_ formula assumes a seamless carryover
+between contexts, meaning that having a certain work capacity in one context
+means having the same capacity in all contexts. This assumption, however,
+violates the rule of context specificity[^2].
 
-Adding a _broad spectrum of contexts_ to the formula finally gives us the
+Adding a _broad domain of contexts_ to the formula finally gives us the
 mathematical representation of **fitness**:
 
 ```
 TODO draw and graph this:
-Fitness = i=0_sum^n (s=0_int^S t=0_int^s P(t, s, Ci) * dt) / n
+Fitness = i=0_sum^n (s=0_int^S t=0_int^s P(t, s, Ci) * dt ds) / n
 ```
 
 For each context `Ci`, we calculate _work capacity_ for that context in a broad
 time domain from zero to `S`. To maximize _fitness_, we have to maximize _volume
-under the plane_ for each context's _work spectrum_, meaning we have to maximize
-the average power `P` for each time frame in each context.
+under the plane_ for each context's _work capacity spectrum_, meaning we have to
+maximize the average power `P` for each time frame in each context.
 
 As Glassman said it[^3]:
 
@@ -858,15 +858,13 @@ body_ and all core movement patterns:
 - Press - strict press, bench press, dip
 - Pull - deadlift, chin-up, barbell row
 
-Do around 3 sets of each exercise. Keep reps on barbell lifts around 5, do
-gymnastic movements for max reps. Accessories for 10-20 reps can be added to the
-mix, especially for the _abs_ and _hamstrings_, like leg raises, ab wheel or a
-GHR.
+Hypertrophy accessories can be added to the mix, especially for the _abs_ and
+_hamstrings_.
 
 Beginners are best off with building an aerobic base before jumping into more
 intense forms of conditioning, so _monostructural LISS_ activities like running,
-cycling or rowing for about 30min are ideal. For grandmas and the less
-conditioned, a brisk walk will suffice.
+cycling or rowing. For grandmas and the less conditioned, a brisk walk will
+suffice.
 
 Every session should include a skill practice to get proficient in movements you
 want to learn as quickly as possible, especially _weightlifting_ and
@@ -909,16 +907,10 @@ Base building phases focuses on developing maximal strength and power both via
 hypertrophy and neural adaptations. Endurance volume is kept at maintenance to
 avoid tapping into strength work recovery.
 
-Strength work is more nuanced now. Frequency of training core movement patterns
-is based on one's recoverability and can range between 1-4 times a week for a
-movement pattern. Strength day structure can look something like this:
-
-- Main strength and power work, 1-2 exercises
-- Assistance strength work, 1-2 exercises
-- Hypertrophy work, 1-5 exercises
-
-Reps are always around 3-6 for strength work and 5-30 for hypertrophy. A great,
-time efficient way to build power and technique is using EMOMs.
+Strength training frequency of core movement patterns is based on one's
+recoverability and can range between 1-4 times a week for a movement pattern.
+Hypertrophy accessories should cover the whole body, filling any potential gaps.
+To build power and technique, a great, time efficient way is using EMOMs.
 
 Endurance wise, one to two LISS sessions and one MIIT / HIIT session should
 suffice for most. One LISS session can be swapped for a longer metcon. Strength
