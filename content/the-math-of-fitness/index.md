@@ -649,15 +649,15 @@ TODO
 ---------> time
 ```
 
-The moderate intensity, steady workouts build _aerobic capacity_ as an endurance
+The moderate intensity, _LISS_ workouts build _aerobic capacity_ as an endurance
 base and they improve fuel efficiency. These are your basic 5k jogs at an
 aerobic pace. You only need about one to two of these a week outside of focused
 blocks.
 
-To train _lactate threshold_, include longer duration intervals with little rest
-between sets, for example 3min intervals at threshold pace with 1min active
-rest. You can also do a 20-30 min continuous effort at threshold pace. Again, no
-need to overdo it, once or twice a week is enough when specializing.
+To train _lactate threshold_, include _MIIT_ — longer duration intervals with
+little rest between sets, for example 3min intervals at threshold pace with 1min
+active rest. You can also do a 20-30 min continuous effort at threshold pace.
+Again, no need to overdo it, once or twice a week is enough when specializing.
 
 Improving your _VO2 max_ and _speed endurance_ is a different beast. _HIIT_
 style workouts work best here, with all-out intervals for 30-60s and about the
@@ -666,7 +666,14 @@ endurance athlete[^26]. Like always, once a week, or more in a dedicated block.
 
 The absolute best way to improve _anaerobic capacity_ and overall _work
 capacity_ is via _AMRAP_ or _for-time_ metcons. This is because of the variety
-they bring. These have the greatest carryover to your work capacity, by far!
+they bring. Metcons are essentially circuits designed for maximal power output.
+They're composed of three main elements:
+
+- Lift - moving external objects
+- Move - gymnastics
+- Work - monostructural intervals
+
+These have the greatest carryover to your work capacity, by far!
 :weight_lifting_woman: Be sure to build a solid base of strength, power and
 aerobic endurance first before you hop onto these.
 
