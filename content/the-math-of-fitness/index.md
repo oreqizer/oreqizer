@@ -71,10 +71,7 @@ stirring soup.
 
 Doing **work** within a certain **time** is in fact the formula for **power**:
 
-```
-TODO draw and graph this:
-P = dW / dt
-```
+![Power](./power.png "Power")
 
 As we established previously, a fit person has the ability to _perform his
 desired tasks_. In other words, they're able to _produce enough power for the
@@ -96,10 +93,8 @@ when we'll start bringing focus back to practical implications.
 Consider the following formula that calculates **work** done by exerting
 **power** over a period of **time**:
 
-```
-TODO draw and graph this:
-W = t=0_int^T P(t) * dt
-```
+
+![Work](./work.png "Work")
 
 For a specific time `T`, in order to maximize work `W`, we have to maximize the
 _area under the curve_ of the graph. That means maximizing average power `P`
@@ -116,10 +111,7 @@ dimension, we can illustrate a _spectrum of work capacities_, which is the
 volume under the plane formed by _work capacities of different time frames_. I
 am going to call it _work capacity spectrum_:
 
-```
-TODO draw and graph this:
-WS = s=0_int^S t=0_int^s P(t, s) * dt ds
-```
+![Work capacity spectrum](./ws.png "Work capacity spectrum")
 
 Within the time domain from zero to `S` we calculate our _work capacity_ in each
 time frame. To maximize the _volume under the plane_ of the graph we have to
@@ -135,10 +127,7 @@ violates the rule of context specificity[^2].
 Adding a _broad domain of contexts_ to the formula finally gives us the
 mathematical representation of **fitness**:
 
-```
-TODO draw and graph this:
-Fitness = i=0_sum^n (s=0_int^S t=0_int^s P(t, s, Ci) * dt ds) / n
-```
+![Fitness](./fitness.png "Fitness")
 
 For each context `Ci`, we calculate _work capacity_ for that context in a broad
 time domain from zero to `S`. To maximize _fitness_, we have to maximize _volume
