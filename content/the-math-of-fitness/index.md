@@ -93,7 +93,6 @@ when we'll start bringing focus back to practical implications.
 Consider the following formula that calculates **work** done by exerting
 **power** over a period of **time**:
 
-
 ![Work](./work.png "Work")
 
 For a specific time `T`, in order to maximize work `W`, we have to maximize the
@@ -156,24 +155,14 @@ As humans age, we lose power[^4], strength[^5] and endurance[^6], all direct
 components for power production over a period of time, in a %-based manner. This
 implies that our _power across every age_ function is _continuous_:
 
-```
-TODO draw
-^ power
-| -\
-____> age
-```
+![Power age](./power_age.png "Power age")
 
 This loss of power directly affects the formula for _fitness_, because we
 gradually lose the ability to _produce power in all contexts and across the
 whole time domain_. Graphing a person's fitness across his life very much
 resembles the declining power function:
 
-```
-TODO
-^ fitness
-| -\
-____> age
-```
+![Fitness age](./fitness_age.png "Fitness age")
 
 Let's assume a curve of a person's desired _minimal fitness_, indicating how fit
 this person wants to be at a given age. This can for example mean that an
@@ -182,14 +171,7 @@ hike and do gardening work on weekends. When younger, they also wanted to play
 sports and compete, be productive at work and handle chores. Their minimal
 fitness curve would look something like this:
 
-```
-TODO
-^ fitness
-| -\
-| ---- curve
-|    \
-____> age
-```
+![Minimal fitness](./min_fitness.png "Minimal fitness")
 
 When their fitness falls fall under the curve, they lose the ability to perform
 some of their desired activities, and the deeper they are, the more ability they
@@ -203,14 +185,7 @@ Consider two graphs for the same person. In one, they only trained their fitness
 slightly. In the other, they tried to maximize their fitness the best their
 lifestyle allowed them to:
 
-```
-TODO make two of these, one crosses at 45, one at 85
-^ fitness
-| -\
-| ----- curve
-|    \
-_____> age
-```
+![Minimal fitness comparison](./min_fitness_compare.png "Minimal fitness comparison")
 
 Notice how in the first graph, they cross their minimal fitness curve at around
 the age of 45, while in the other graph they do so at 85. This means that
@@ -237,18 +212,7 @@ to how close the _total work done_ is to your _work capacity_ in this context.
 Let's illustrate perceived exertion in percent using a graph of our power
 output:
 
-```
-TODO
-^ power
-| ------- max power
-| ------- performed power
-|
-|
----------> time
-
-PE = W / W_max * 100%
-   = ~90%
-```
+![Work execution hard](./work_exec_hard.png "Work execution hard")
 
 The perceived exertion `PE` is calculated as the total work done `W` over our
 work capacity `W_max` in the given context and time frame, multiplied by `100`
@@ -276,18 +240,7 @@ can handle. You'd probably just casually walk to your car, put them there,
 started your car and drove off home. The graph of your power output would look
 like this:
 
-```
-TODO
-^ power
-| ------- max power
-|
-|
-| ------- performed power
----------> time
-
-PE = W / W_max * 100%
-   = ~30%
-```
+![Work execution easy](./work_exec_easy.png "Work execution easy")
 
 Suddenly our perceived exertion of carrying groceries drops from RPE 9 to RPE 3.
 
@@ -350,11 +303,7 @@ each one domain.
 In addition, not all domains are created equal. Consider the formula for _work_
 and _power_:
 
-```
-TODO
-W = F * d
-P = dW / dt
-```
+![Work and power labeled](./work_power_labeled.png "Work and power labeled")
 
 As you can see, work `W` is composed of _force production_ for a _distance_.
 Power `P` is work done as quickly as possible. Work can also be expressed as
@@ -397,25 +346,13 @@ For example, powerlifters focus on getting as _strong_ as possible,
 weightlifters maximize their _power_. Both of these sports favor the very
 beginning of the time domain, creating a steep power curve:
 
-```
-TODO
-^ power
-|\
-| \______ str/pow
----------> time
-```
+![Power curve steep](./power_curve_steep.png "Power curve steep")
 
 On the contrary, long-distance runners and cyclists maximize _endurance_, which
 develops the complete opposite of the time domain, thus creating a much flatter
 curve:
 
-```
-TODO
-^ power
-|____      end
-|    ----
----------> time
-```
+![Power curve shallow](./power_curve_shallow.png "Power curve shallow")
 
 These athletes focus on their sport first and foremost. Anything else is
 peripheral for them.
@@ -430,13 +367,7 @@ you focus on being proficient everywhere and filling gaps where they pop up,
 creating a balanced power curve. This approach builds the most fitness —
 maximizes work capacity across the time domain:
 
-```
-TODO
-^ power
-|-__
-|   \--__ balanced
----------> time
-```
+![Power curve balanced](./power_curve_balanced.png "Power curve balanced")
 
 Balanced development is ideal for improving everyday life, since you gather all
 of the health benefits of all fitness domains, are able to perform all tasks at
@@ -536,10 +467,7 @@ tasks take similar time. Carrying groceries usually takes a few minutes. Running
 seconds. Thus, we will consider _time_ to be a part of _context_ and reflect
 this in our formula for fitness:
 
-```
-TODO
-Fitness = i=0_sum^n (t=0_int^Ci.t P(t, Ci) * dt) / n
-```
+![Fitness short](./fitness_short.png "Fitness short")
 
 Benchmarks are a way to assert that our _fitness is improving over time_. They
 are measurable workouts that show our _work capacity in a specific context_.
@@ -569,14 +497,10 @@ strength. Metcons make sure you're versatile in your power expression and
 skillset, as well as different effort lengths and well-developed anaerobic
 capacity. Last, having a monostructural benchmark asserts our aerobic capacity.
 
-If we could measure work done in each of the benchmarks and interpolate the
+If we could measure work done in each of the benchmarks and least-square the
 results, the graph of our fitness would look something like this:
 
-```
-TODO graph this how CF has it at
-https://www.crossfit.com/cf-seminars/CertRefs/CF_Manual_v4.pdf page 23
-except use work across time spectrum, not power
-```
+![Fitness benchmarks](./fitness_benchmarks.png "Fitness benchmarks")
 
 Feel free to add anything measurable that translates well to your life. A mother
 of a toddler? Try sandbag carries for distance and max rep sandbag cleans. Hope
