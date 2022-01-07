@@ -884,86 +884,58 @@ rewarding_! :muscle:
 
 Stay strong, friends. :wave:
 
-[^1]:
-    [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
+[^1]: [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
 
-[^2]:
-    [Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
+[^2]: [Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
 
-[^3]:
-    [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
+[^3]: [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
 
-[^4]:
-    [Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
+[^4]: [Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
 
-[^5]:
-    [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
+[^5]: [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
 
-[^6]:
-    [Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
+[^6]: [Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
 
-[^7]:
-    [Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
+[^7]: [Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
 
-[^8]:
-    [Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
+[^8]: [Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
 
-[^9]:
-    [Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
+[^9]: [Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
 
-[^10]:
-    [Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
+[^10]: [Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
 
-[^11]:
-    [Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
+[^11]: [Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
 
-[^12]:
-    [High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
+[^12]: [High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
 
-[^13]:
-    [Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
+[^13]: [Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
 
-[^14]:
-    [Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
+[^14]: [Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
 
-[^15]:
-    [Physical activity and feelings of energy and fatigue](https://pubmed.ncbi.nlm.nih.gov/16937952/)
+[^15]: [Physical activity and feelings of energy and fatigue](https://pubmed.ncbi.nlm.nih.gov/16937952/)
 
-[^16]:
-    [Regulation and Dysregulation of Cellular Energy Supply and Metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700424/)
+[^16]: [Regulation and Dysregulation of Cellular Energy Supply and Metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700424/)
 
-[^17]:
-    [Mitochondria-Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
+[^17]: [Mitochondria-Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
 
-[^18]:
-    [Exercise and mitochondrial health](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278853)
+[^18]: [Exercise and mitochondrial health](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278853)
 
-[^19]:
-    [Accelerometer measured physical activity and the incidence of cardiovascular disease](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003487#)
+[^19]: [Accelerometer measured physical activity and the incidence of cardiovascular disease](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003487#)
 
-[^20]:
-    [Foundations of CrossFit](http://journal.crossfit.com/2002/04/foundations.tpl)
+[^20]: [Foundations of CrossFit](http://journal.crossfit.com/2002/04/foundations.tpl)
 
-[^21]:
-    [The Case for Retiring Flexibility as a Major Component of Physical Fitness](https://pubmed.ncbi.nlm.nih.gov/31845202/)
+[^21]: [The Case for Retiring Flexibility as a Major Component of Physical Fitness](https://pubmed.ncbi.nlm.nih.gov/31845202/)
 
-[^22]:
-    [Training vs. Exercise](https://startingstrength.com/article/training_vs_exercise)
+[^22]: [Training vs. Exercise](https://startingstrength.com/article/training_vs_exercise)
 
-[^23]:
-    [Principle of Phase Potentiation](https://www.jtsstrength.com/principle-of-phase-potentiation/)
+[^23]: [Principle of Phase Potentiation](https://www.jtsstrength.com/principle-of-phase-potentiation/)
 
-[^24]:
-    [The Principle of Overload](https://www.jtsstrength.com/smart-training-is-hard-training-the-principle-of-overload/)
+[^24]: [The Principle of Overload](https://www.jtsstrength.com/smart-training-is-hard-training-the-principle-of-overload/)
 
-[^25]:
-    [Maximal Strength Programming for CrossFit](https://www.jtsstrength.com/jts-classic-maximal-strength-programming-for-crossfit/)
+[^25]: [Maximal Strength Programming for CrossFit](https://www.jtsstrength.com/jts-classic-maximal-strength-programming-for-crossfit/)
 
-[^26]:
-    [HIIT Leads to Greater Improvements in Acute Heart Rate Recovery and Anaerobic Power as HVLIT in Advanced Athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539186/)
+[^26]: [HIIT Leads to Greater Improvements in Acute Heart Rate Recovery and Anaerobic Power as HVLIT in Advanced Athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539186/)
 
-[^27]:
-    [Safety and efficacy of creatine supplementation in exercise, sport, and medicine](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)
+[^27]: [Safety and efficacy of creatine supplementation in exercise, sport, and medicine](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)
 
-[^28]:
-    [The Extraordinary Importance of Sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281147/)
+[^28]: [The Extraordinary Importance of Sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281147/)
