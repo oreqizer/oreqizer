@@ -1,10 +1,9 @@
 +++
 title = "The math of fitness"
 date = 2021-12-13
-draft = true
 
 [taxonomies]
-tags = ["gains", "fitness", "health"]
+tags = ["fitness", "health"]
 +++
 
 _Fitness_ is one of the most bastardized terms in the industry. No one really
@@ -530,13 +529,7 @@ growing muscle and maximizing your strength and power. Becoming stronger and
 more powerful boosts your short-duration power curve and greatly increases your
 endurance potential:
 
-```
-TODO
-^ draw power boost at start
-| -\ _____ power potential (before was lower)
-|   \_____ current endurance
----------> time
-```
+![Training base](./training_base.png "Training base")
 
 Having a period of focused _hypertrophy_ training builds foundation for all
 other base adaptations[^23]. Exercises for building muscle are done with
@@ -554,13 +547,7 @@ Building a massive engine to run your base means maximizing _aerobic_ and
 _anaerobic capacity_, along with related modalities. It allows you to fully
 express your power for the longest time possible:
 
-```
-TODO
-^
-|-\______ power
-|
----------> time
-```
+![Training engine](./training_engine.png "Training engine")
 
 The moderate intensity, _LISS_ workouts build _aerobic capacity_ as an endurance
 base and they improve fuel efficiency. These are your basic 5k jogs at an
@@ -596,13 +583,7 @@ All the movements you do when training need some level of technical competence
 to perform effectively. Being proficient in a wide variety of movements allows
 us to express our power in many different contexts:
 
-```
-TODO
-^ power
-| ===
-|    \\=== different contexts
-----------> time
-```
+![Training skill](./training_skill.png "Training skill")
 
 Unless speaking about sport-specific skills, the level you want to be good in
 them really comes down to your _learning budget_. You'd ideally want to master
@@ -634,19 +615,13 @@ Recovery is an absolutely necessary component of increasing fitness. Training
 gives us _stimulus_, and in order to _adapt_, we have to _recover_. This flow is
 known as the "stimulus, recovery, adaptation curve", or **SRA curve**:
 
-```
-TODO
-SRA curve graph
-```
+![SRA](./sra.png "SRA")
 
 Sufficiently hard training creates a _temporary decrease in fitness_. With
 proper recovery, the body adapts to that stress by _increasing our fitness_ so
 that our body is better prepared for that stimulus in the future:
 
-```
-TODO
-graph of neutral line, decrease line, increase line
-```
+![SRA fitness](./sra_fitness.png "SRA fitness")
 
 The better we recover, the more stress we can impose on the body, the more
 _adaptations we can accumulate_ and the faster we can maximize our fitness.
