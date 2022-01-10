@@ -20,8 +20,8 @@ This is my **chicken madras** recipe, simplified for my meal prep needs.
 - 3 tbsp table salt
 - 4 large cayenne chillies
 - 1/2 cup white wine vinegar
-- 800ml canned tomatoes
-- 280ml tomato puree
+- 800g canned tomatoes
+- 280g tomato puree
 - 400ml coconut milk
 - 1.5-2kg chicken breasts
 
