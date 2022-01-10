@@ -16,7 +16,7 @@ This is my **chicken madras** recipe, simplified for my meal prep needs.
 - 6 tbsp ghee / vegetable oil
 - 2 tbsp madras curry powder
 - 2 tbsp garam masala powder
-- 1 tbsp red chilli powder / paprika
+- 2 tbsp red chilli powder / paprika
 - 3 tbsp table salt
 - 4 large cayenne chillies
 - 1/2 cup white wine vinegar
