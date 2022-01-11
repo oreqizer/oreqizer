@@ -172,8 +172,8 @@ fitness curve would look something like this:
 
 ![Minimal fitness](./min_fitness.png "Minimal fitness")
 
-When their fitness falls fall under the curve, they lose the ability to perform
-some of their desired activities, and the deeper they are, the more ability they
+When their fitness falls under the curve, they lose the ability to perform some
+of their desired activities, and the deeper they are, the more ability they
 lose.
 
 How do we ensure delaying falling under our personal minimal fitness curve?
@@ -361,10 +361,10 @@ a balanced way, maybe favoring some due to personal preference. This means
 becoming sort of a _jack-of-all-trades_ if you will, being _great at everything_
 yet _perfect at nothing_.
 
-Instead of going all-in in one time spectrum and then just barely in the rest,
-you focus on being proficient everywhere and filling gaps where they pop up,
-creating a balanced power curve. This approach builds the most fitness —
-maximizes work capacity across the time domain:
+Instead of going all-in in one time spectrum and context and then just barely in
+the rest, you focus on being proficient everywhere and filling gaps where they
+pop up, creating a balanced power curve. This approach builds the most fitness —
+maximizes work capacity across the time and context domain:
 
 ![Power curve balanced](./power_curve_balanced.png "Power curve balanced")
 
