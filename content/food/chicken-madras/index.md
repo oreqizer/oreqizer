@@ -18,7 +18,7 @@ This is my **chicken madras** recipe, simplified for my meal prep needs.
 - 2 tbsp garam masala powder
 - 2 tbsp red chilli powder / paprika
 - 3 tbsp table salt
-- 4 large cayenne chillies
+- 4-6 large cayenne chillies
 - 1/2 cup white wine vinegar
 - 800g canned tomatoes
 - 280g tomato puree
