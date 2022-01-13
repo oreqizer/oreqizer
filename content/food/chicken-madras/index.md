@@ -6,6 +6,8 @@ date = 2022-01-10
 tags = ["food", "health"]
 +++
 
+![Madras](./madras.jpg "Madras")
+
 This is my **chicken madras** recipe, simplified for my meal prep needs.
 
 # Ingredients
@@ -28,7 +30,7 @@ This is my **chicken madras** recipe, simplified for my meal prep needs.
 # Process
 
 Heat up the _fat_ in a deep frying pan. Fry the _onions_ until softened. Add in
-the chicken, fry until white on the outside. When done, move into a big pot.
+the _chicken_, fry until white on the outside. When done, move into a big pot.
 
 Mix the _garlic_, _ginger_, _chillies_, _spices_, _salt_, _vinegar_, _tomatoes_
 and _puree_ in a food processor, blend until smooth. Cover the chicken and
