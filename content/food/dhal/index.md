@@ -21,7 +21,7 @@ health food!
 - 1 tsp ground cumin
 - 1 tsp ground mustard seeds
 - 2 tsp garam masala powder
-- 4 tbsp turmeric powder
+- 4 tsp turmeric powder
 - 2 tbsp table salt
 - 3-4 large cayenne chillies, chopped
 - 1000ml vegetable broth
