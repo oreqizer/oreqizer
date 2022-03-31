@@ -1,1 +1,6 @@
-GitHub doing CVs now, nice. :ok_hand:
+- Proud family man 👨‍👩‍👦
+- Web developer god by profession 💰
+- API & DB dev as offspec 📚
+- Compilers and game development fan 🥳
+- I write [excessively long articles](https://oreqizer.com/the-math-of-fitness/) about useful stuff 🗒️
+- Y'all should lift 💪
