@@ -1,1 +1,9 @@
+# Tailwind
+static/index.css
+
+# Yarn
+node_modules
+yarn-error.log
+
+# Zola
 public

@@ -1,0 +1,16 @@
+{
+  "name": "oreqizer",
+  "scripts": {
+    "start": "run-p --print-label watch serve",
+    "serve": "zola serve",
+    "build": "tailwind -i static/_index.css -o public/index.css",
+    "watch": "yarn build --watch"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/tailwindcss": "^3.0.10",
+    "npm-run-all": "^4.1.5",
+    "tailwindcss": "^3.0.24"
+  },
+  "license": "ISC"
+}
