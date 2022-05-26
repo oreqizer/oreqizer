@@ -1,33 +1,27 @@
 {% extends "base.html" %}
 
 {% block content %}
-<section class="relative w-full h-full overflow-hidden">
-    <div class="font-mono w-full h-full grid grid-rows-3 md:grid-rows-1 md:grid-cols-3 items-center justify-center">
-      <div class="row-span-2 md:row-span-1 md:col-span-2 relative h-full w-full flex items-center justify-center p-10 text-ink dark:text-ink-dark">
-        <div class="absolute -z-10 h-[200%] w-[200%] bg-background dark:bg-background-dark"></div>
+<div class="overflow-hidden w-full h-full grid grid-rows-3 md:grid-rows-1 md:grid-cols-3 items-center justify-center font-mono">
+  <div class="row-span-2 md:row-span-1 md:col-span-2 relative h-full w-full flex items-center justify-center p-10 text-ink dark:text-dark-ink">
+    <div class="absolute -z-10 h-[200%] w-[200%] bg-background dark:bg-dark-background"></div>
 
-        <h1 class="font-bold text-7xl">Boris Petrenko</h1>
-      </div>
+    <h1 class="font-bold text-7xl">Boris Petrenko</h1>
+  </div>
 
-      <div class="relative h-full w-full flex items-center justify-center p-10 text-ink dark:text-ink-dark">
-        <div class="absolute -z-10 h-[200%] w-[200%] -top-0 md:-top-[50%] -left-[50%] md:-left-0 -rotate-12 md:rotate-12 bg-primary dark:bg-primary-dark"></div>
+  <div class="relative h-full w-full flex items-center justify-center p-10 text-ink dark:text-dark-ink">
+    <div class="absolute -z-10 h-[200%] w-[200%] -top-0 md:-top-[50%] -left-[50%] md:-left-0 -rotate-12 md:rotate-12 bg-primary dark:bg-dark-primary"></div>
 
-        <ul>
-          <li>
-            <a class="text-3xl leading-relaxed hover:underline" href="https://github.com/oreqizer">🐙 GitHub</a>
-          </li>
-          <li>
-            <a class="text-3xl leading-relaxed hover:underline" href="{{ get_url(path="@/blog/_index.md") }}">📚 Blog</a>
-          </li>
-          <li>
-            <a class="text-3xl leading-relaxed hover:underline" href="{{ get_url(path="@/food/_index.md") }}">🥘 Foods</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="absolute bottom-3 right-3">
-      {{ macros::theme() }}
-    </div>
-</section>
+    <ul>
+      <li>
+        <a class="text-3xl leading-relaxed hover:underline" href="https://github.com/oreqizer">🐙 GitHub</a>
+      </li>
+      <li>
+        <a class="text-3xl leading-relaxed hover:underline" href="{{ get_url(path="@/blog/_index.md") }}">📚 Blog</a>
+      </li>
+      <li>
+        <a class="text-3xl leading-relaxed hover:underline" href="{{ get_url(path="@/food/_index.md") }}">🥘 Foods</a>
+      </li>
+    </ul>
+  </div>
+</div>
 {% endblock content %}

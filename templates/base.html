@@ -20,6 +20,12 @@
   <body>
     <main class="relative h-screen w-screen">
       {% block content %} {% endblock %}
+
+      <div class="absolute bottom-3 right-3">
+        <button aria-label="toggle theme" id="theme"></button>
+      </div>
     </main>
+
+    <script src="theme.js" async></script>
   </body>
 </html>

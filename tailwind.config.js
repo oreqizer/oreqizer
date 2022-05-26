@@ -8,11 +8,15 @@ module.exports = {
     extend: {
       colors: {
         primary: "#FA3F3C",
-        "primary-dark": "#D93734",
-        background: colors.slate["50"],
-        "background-dark": colors.slate["900"],
+        secondary: "#3CFA78",
+        background: colors.slate["100"],
         ink: colors.slate["900"],
-        "ink-dark": colors.slate["50"],
+        dark: {
+          primary: "#D93734",
+          secondary: "#037B27",
+          background: colors.slate["900"],
+          ink: colors.slate["100"],
+        },
       },
     },
   },
