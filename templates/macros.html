@@ -1,0 +1,24 @@
+{% macro theme() %}
+<button aria-label="toggle theme" id="theme"></button>
+<script
+  src="{{ get_url(path='theme.js', trailing_slash=false) }}"
+  async
+></script>
+{% endmacro theme %}
+
+{% macro header() %}
+<header
+  class="relative w-screen h-[8rem] font-mono text-ink dark:text-dark-ink"
+>
+  <div
+    class="absolute -z-10 h-[200%] w-[200%] -top-[50%] -left-[50%] -rotate-1 bg-primary dark:bg-dark-primary"
+  ></div>
+
+  <div class="m-auto max-w-3xl px-2 py-8">
+    <h1 class="text-4xl font-bold my-4 hover:underline">
+      <a href="{{ config.base_url }}">{{ config.title }}</a>
+    </h1>
+    <p class="text-2xl">{{ config.description }}</p>
+  </div>
+</header>
+{% endmacro header %}

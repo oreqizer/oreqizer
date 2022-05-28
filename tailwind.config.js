@@ -11,11 +11,13 @@ module.exports = {
         secondary: "#3CFA78",
         background: colors.slate["100"],
         ink: colors.slate["900"],
+        "ink-variant": colors.slate["700"],
         dark: {
           primary: "#D93734",
           secondary: "#037B27",
           background: colors.slate["900"],
           ink: colors.slate["100"],
+          "ink-variant": colors.slate["300"],
         },
       },
     },
