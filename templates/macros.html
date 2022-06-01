@@ -1,11 +1,3 @@
-{% macro theme() %}
-<button aria-label="toggle theme" id="theme"></button>
-<script
-  src="{{ get_url(path='theme.js', trailing_slash=false) }}"
-  async
-></script>
-{% endmacro theme %}
-
 {% macro header() %}
 <header
   class="relative w-screen h-[8rem] font-mono text-ink dark:text-dark-ink"
