@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .frame {
+    @apply relative inline-block z-10 p-4 bg-black dark:bg-white text-white dark:text-black font-mono font-bold uppercase;
+  }
+}

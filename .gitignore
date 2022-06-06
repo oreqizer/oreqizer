@@ -1,9 +1,9 @@
-# Tailwind
-static/index.css
+# SvelteKit
+.DS_Store
+node_modules
+/.svelte-kit
+/build
+/functions
 
 # Yarn
-node_modules
 yarn-error.log
-
-# Zola
-public

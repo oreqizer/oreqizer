@@ -1,12 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+<script lang="ts">
+  export let text: string = "";
+</script>
 
-@layer components {
-  .heading {
-    @apply relative inline-block z-10 p-4 bg-black dark:bg-white text-white dark:text-black font-mono font-bold uppercase;
-  }
+<h1 class="frame glitch" data-text={text}>{text}</h1>
 
+<style>
   .glitch::before,
   .glitch::after {
     @apply content-[attr(data-text)] absolute top-0 left-0 p-4 w-full h-full -z-10;
@@ -39,4 +37,4 @@
       transform: translate3D(1px, 2px, 0);
     }
   }
-}
+</style>

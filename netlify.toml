@@ -1,11 +1,6 @@
-# https://www.getzola.org/documentation/deployment/netlify/
-
 [build]
-command = "yarn build && zola build"
+command = "yarn build"
 publish = "public"
 
-[build.environment]
-ZOLA_VERSION = "0.14.1"
-
 [context.deploy-preview]
-command = "yarn build && zola build --base-url $DEPLOY_PRIME_URL"
+command = "yarn build"
