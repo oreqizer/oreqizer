@@ -7,11 +7,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#FA3F3C",
         background: colors.white,
         ink: colors.black,
+        link: colors.blue["600"],
         white: colors.white,
         black: colors.black,
+        glitch: {
+          red: "#ff00c1",
+          blue: "#3498db",
+        },
         dark: {
           background: colors.black,
           ink: colors.white,

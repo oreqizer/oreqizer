@@ -1,0 +1,21 @@
+<script>import Anchor from "$lib/components/anchor.svelte";</script>
+
+# Kekega omg
+
+This is me lmao <Anchor href="https://www.google.com">here's a link</Anchor> lol. This is me lmao.
+This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is me
+lmao. This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is
+me lmao.
+
+This is me lmao <Anchor href="https://www.google.com">here's a link</Anchor> lol. This is me lmao.
+This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is me
+lmao. This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is me lmao. This is
+me lmao.
+
+## Omg wtf
+
+Kek lmao rofl
+
+### Why u do This
+
+kek lmoasdf ok

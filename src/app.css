@@ -4,6 +4,6 @@
 
 @layer components {
   .frame {
-    @apply relative inline-block z-10 p-4 bg-black dark:bg-white text-white dark:text-black font-mono font-bold uppercase;
+    @apply relative inline-block z-10 bg-black dark:bg-white text-white dark:text-black font-mono font-bold uppercase;
   }
 }

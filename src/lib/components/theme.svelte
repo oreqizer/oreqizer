@@ -41,7 +41,7 @@
   }
 </script>
 
-<button class="p-2 bg-black" aria-label="toggle theme" on:click={handleClick}>
+<button class="p-2 h-10 w-10 bg-black" aria-label="toggle theme" on:click={handleClick}>
   {#if theme === Theme.DARK}☀️{/if}
   {#if theme === Theme.LIGHT}🌙{/if}
 </button>

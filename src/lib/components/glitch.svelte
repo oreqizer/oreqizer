@@ -1,8 +1,8 @@
 <script lang="ts">
-  export let text: string = "";
+  export let text: string;
 </script>
 
-<h1 class="frame glitch" data-text={text}>{text}</h1>
+<h1 class="frame p-4 glitch" data-text={text}>{text}</h1>
 
 <style>
   .glitch::before,
@@ -11,12 +11,12 @@
   }
 
   .glitch::before {
-    color: #ff00c1;
+    @apply text-glitch-red;
     animation: glitch-effect 3s infinite;
   }
 
   .glitch::after {
-    color: #3498db;
+    @apply text-glitch-blue;
     animation: glitch-effect 2s infinite;
   }
 
