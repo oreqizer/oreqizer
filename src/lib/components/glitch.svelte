@@ -2,7 +2,7 @@
   export let text: string;
 </script>
 
-<h1 class="frame p-4 glitch" data-text={text}>{text}</h1>
+<h1 class="frame text-5xl md:text-7xl p-4 glitch" data-text={text}>{text}</h1>
 
 <style>
   .glitch::before,

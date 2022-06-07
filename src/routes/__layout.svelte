@@ -9,7 +9,7 @@
     <div class="relative">
       <img src="/social.png" alt="Boris Petrenko" />
 
-      <div class="absolute left-2 bottom-2 w-full text-6xl md:text-7xl">
+      <div class="mt-6 mb-12 md:my-0 md:absolute md:left-2 md:bottom-2 w-full">
         <Glitch text="Boris Petrenko" />
       </div>
     </div>
