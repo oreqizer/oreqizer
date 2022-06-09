@@ -8,8 +8,8 @@ projects that steer the course of humanity.
 - Solving complex problems with simple solutions
 - Doc or it didn't happen :paperclip:
 - King of outsourcing :crown:
-- Bootstrapping MVPs is my passion
 - Large-scale web app architecture is my bread
+- Bootstrapping MVPs is my passion
 - Working remotely from Europe, time zone CET/UTC+1. :flag-sk:
 
 ## About
