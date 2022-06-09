@@ -20,21 +20,22 @@
     animation: glitch-effect 2s infinite;
   }
 
+  /* https://amazingcss.com/glitch-text-effect-like-tiktok/ */
   @keyframes glitch-effect {
     0% {
-      transform: translate3D(-1px, -2px, 0);
+      transform: translate3D(-2px, -2px, 0);
     }
     25% {
-      transform: translate3D(-1px, 0, 0);
+      transform: translate3D(-2px, 0, 0);
     }
     50% {
-      transform: translate3D(0, 2px, 0);
+      transform: translate3D(-1px, 2px, 0);
     }
     75% {
-      transform: translate3D(2px, 1px, 0);
+      transform: translate3D(1px, 1px, 0);
     }
     100% {
-      transform: translate3D(1px, 2px, 0);
+      transform: translate3D(0px, 2px, 0);
     }
   }
 </style>

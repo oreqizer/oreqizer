@@ -1,3 +1,8 @@
+<script>
+  import ListBlocks from "$lib/components/list_blocks.svelte"; import Footnote from
+  "$lib/components/footnote.svelte";
+</script>
+
 Family man by heart :family:, engineer by profession :bee:. Interested in powerful technologies and
 projects that steer the course of humanity.
 
@@ -5,9 +10,9 @@ projects that steer the course of humanity.
 
 ## Zen of Boris
 
-- Solving complex problems with simple solutions
+- Complex problems require simple solutions
 - Doc or it didn't happen :paperclip:
-- King of outsourcing :crown:
+- Efficiency is king :crown:
 - Large-scale web app architecture is my bread
 - Bootstrapping MVPs is my passion
 - Working remotely from Europe, time zone CET/CEST/UTC+1. :flag-sk:
@@ -20,3 +25,23 @@ Boris is a **Staff engineer** with 6+ years of experience in the travel industry
 development_. Boris greatly values educating others, contributes to open source projects, enjoys
 talking at tech conferences and writing articles. He is currently finishing his master's degree in
 **Management of software systems and services**.
+
+# Tech stack :computer:
+
+<ListBlocks list={["rust", "typescript", "go", "📚 webassembly"]} />
+
+<ListBlocks list={["svelte", "react", "next", "edge", "tailwind", "performance", "web standards"]} />
+
+<ListBlocks list={["bff", "graphql", "postgres", "redis", "📚 grpc"]} />
+
+<ListBlocks list={["git", "aws sam", "cloudflare", "netlify", "docker"]} />
+
+<ListBlocks list={["ci/cd", "static analysis", "docs", "human code reviews"]} />
+
+<ListBlocks list={["dapp", "📚 gun", "📚 hypercore", "📚 ipfs", "📚 ssb"]} />
+
+<Footnote>
+
+Cheers to my friend [Olso](https://olso.space) for homepage design inspiration. :wine_glass:
+
+</Footnote>

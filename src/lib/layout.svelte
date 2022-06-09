@@ -1,4 +1,5 @@
 <script type="ts" context="module">
+  import Blockquote from "$lib/components/blockquote.svelte";
   import Heading from "$lib/components/heading.svelte";
   import Subtitle from "$lib/components/subtitle.svelte";
   import Subsubtitle from "$lib/components/subsubtitle.svelte";
@@ -6,6 +7,7 @@
   import Paragraph from "$lib/components/paragraph.svelte";
   import List from "$lib/components/list.svelte";
 
+  export const blockquote = Blockquote;
   export const h1 = Heading;
   export const h2 = Subtitle;
   export const h3 = Subsubtitle;
@@ -14,15 +16,21 @@
   export const ul = List;
 </script>
 
-<slot />
+<div class="layout">
+  <slot />
+</div>
 
 <style>
   /* No way to style <a> as a component — impossible to pass custom props */
-  :global(a) {
+  .layout :global(a) {
     @apply text-link underline;
   }
 
-  :global(.dark a) {
+  .layout :global(a)::after {
+    @apply content-["🔗"] inline-block ml-2 no-underline;
+  }
+
+  :global(.dark) .layout :global(a) {
     @apply text-glitch-blue;
   }
 </style>
