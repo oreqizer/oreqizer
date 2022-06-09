@@ -10,7 +10,7 @@ projects that steer the course of humanity.
 - King of outsourcing :crown:
 - Large-scale web app architecture is my bread
 - Bootstrapping MVPs is my passion
-- Working remotely from Europe, time zone CET/UTC+1. :flag-sk:
+- Working remotely from Europe, time zone CET/CEST/UTC+1. :flag-sk:
 
 ## About
 
