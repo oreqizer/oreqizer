@@ -1,9 +1,5 @@
-<script lang="ts">
-  export let text: string;
-</script>
-
 <div class="relative glitch mt-12 mb-4 z-10 inline-block">
-  <h1 id={text} class="frame p-3 text-3xl">
+  <h1 class="frame p-3 text-3xl">
     <slot />
   </h1>
 </div>
