@@ -3,8 +3,8 @@
   "$lib/components/footnote.svelte";
 </script>
 
-Family man by heart :family:, engineer by profession :bee:. Interested in powerful technologies,
-lifting stuff and all things difficult.
+Family man by heart :family:, engineer by profession :bee:. Interested in bleeding edge
+technologies, lifting heavy stuff and a good night's sleep.
 
 # Business :moneybag:
 
