@@ -3,8 +3,8 @@
   "$lib/components/footnote.svelte";
 </script>
 
-Family man by heart :family:, engineer by profession :bee:. Interested in powerful technologies and
-projects that steer the course of humanity.
+Family man by heart :family:, engineer by profession :bee:. Interested in powerful technologies,
+lifting stuff and all things difficult.
 
 # Business :moneybag:
 
@@ -30,7 +30,9 @@ talking at tech conferences and writing articles. He is currently finishing his 
 
 <ListBlocks list={["rust", "typescript", "go", "📚 webassembly"]} />
 
-<ListBlocks list={["svelte", "react", "next", "edge", "tailwind", "performance", "web standards"]} />
+<ListBlocks
+  list={["svelte", "react", "next", "edge", "tailwind", "performance", "web standards"]}
+/>
 
 <ListBlocks list={["bff", "graphql", "postgres", "redis", "📚 grpc"]} />
 
