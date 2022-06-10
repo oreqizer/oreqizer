@@ -17,7 +17,7 @@ technologies, lifting heavy stuff and a good night's sleep.
 - Bootstrapping MVPs is my passion
 - Working remotely from Europe, time zone CET/CEST/UTC+1 :flag-sk:
 
-## About
+## HR intro
 
 **Staff engineer** with 6+ years of experience in the travel industry
 ([Kiwi.com](https://www.kiwi.com)) and marketplaces ([GainWagon](https://gainwagon.com) and
