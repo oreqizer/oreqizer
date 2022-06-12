@@ -22,7 +22,7 @@ technologies, lifting heavy stuff and a good night's sleep.
 
 **Staff engineer** with 6+ years of experience in the travel industry
 ([Kiwi.com](https://www.kiwi.com)) and marketplaces ([GainWagon](https://gainwagon.com) and
-[Seasy](https://seasy.at)). He is passionate about _web3_, _machine learning_ and _game
+[Seasy](https://seasy.at)). He is passionate about _web3_, _compilers_, _machine learning_ and _game
 development_. Boris greatly values educating others, contributes to open source projects, enjoys
 talking at tech conferences and writing articles. He is currently finishing his master's degree in
 **Management of software systems and services**.
@@ -97,7 +97,8 @@ talking at tech conferences and writing articles. He is currently finishing his 
 
 # Social :bird:
 
-[email](mailto:boris@oreqizer.com?subject=Hi%20👋) [github.com](http://github.com/oreqizer) [medium.com](http://medium.com/@oreqizer/)
+[email](mailto:boris@oreqizer.com?subject=Hi%20👋) [github.com](http://github.com/oreqizer)
+[medium.com](http://medium.com/@oreqizer/)
 [open.spotify.com](https://open.spotify.com/user/11154134535)
 
 <Footnote>
