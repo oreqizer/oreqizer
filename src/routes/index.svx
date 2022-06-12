@@ -1,0 +1,107 @@
+<script>
+  import ListBlocks from "$lib/components/list_blocks.svelte"; import Work from
+  "$lib/components/work.svelte"; import Anchor from "$lib/components/anchor.svelte"; import Footnote
+  from "$lib/components/footnote.svelte";
+</script>
+
+Family man by heart :family:, engineer by profession :bee:. Interested in bleeding edge
+technologies, lifting heavy stuff and a good night's sleep.
+
+# Business :moneybag:
+
+## tl;dr
+
+- Complex problems require simple solutions
+- Doc or it didn't happen :paperclip:
+- Efficiency is king :crown:
+- Large-scale web app architecture is my bread
+- Bootstrapping MVPs is my passion
+- Working remotely from Europe, time zone CET/CEST/UTC+1 :flag-sk:
+
+## HR intro
+
+**Staff engineer** with 6+ years of experience in the travel industry
+([Kiwi.com](https://www.kiwi.com)) and marketplaces ([GainWagon](https://gainwagon.com) and
+[Seasy](https://seasy.at)). He is passionate about _web3_, _machine learning_ and _game
+development_. Boris greatly values educating others, contributes to open source projects, enjoys
+talking at tech conferences and writing articles. He is currently finishing his master's degree in
+**Management of software systems and services**.
+
+# Tech stack :computer:
+
+<ListBlocks list={["rust", "typescript", "go", "python", "📚 webassembly"]} />
+
+<ListBlocks
+  list={["svelte", "react", "next", "edge", "tailwind", "performance", "web standards"]}
+/>
+
+<ListBlocks list={["bff", "graphql", "postgres", "redis", "📚 grpc"]} />
+
+<ListBlocks list={["git", "aws sam", "cloudflare", "netlify", "docker"]} />
+
+<ListBlocks list={["ci/cd", "static analysis", "docs", "human code reviews"]} />
+
+<ListBlocks list={["dapp", "📚 gun", "📚 hypercore", "📚 ipfs", "📚 ssb"]} />
+
+# Work :construction:
+
+<Work src="/work/kiwicom.svg">
+  <span slot="title">Kiwi.com</span>
+  <span slot="description">Staff engineer — making travel accessible for everyone 🛫</span>
+  <Anchor slot="link" href="https://www.kiwi.com">
+    kiwi.com
+  </Anchor>
+</Work>
+
+<Work src="/work/gainwagon.png">
+  <span slot="title">GainWagon</span>
+  <span slot="description">Founder and CTO — all aboard the gain train! 💪 🚂</span>
+  <Anchor slot="link" href="https://gainwagon.com">
+    gainwagon.com
+  </Anchor>
+</Work>
+
+<Work src="/work/seasy.png">
+  <span slot="title">Seasy</span>
+  <span slot="description">Former co-founder — the leading marina booking platform ⛵</span>
+  <Anchor slot="link" href="https://seasy.com">
+    seasy.com
+  </Anchor>
+</Work>
+
+# Articles :lower_left_ballpoint_pen:
+
+- [The Math of Fitness 💪](https://medium.com/@oreqizer/the-math-of-fitness-dbcf11971617)
+- [Marking it up 💅 — Overview of web app rendering techniques](https://code.kiwi.com/web-app-rendering-101-6ad2e01b0bb4)
+
+# Life :muscle:
+
+## Gym
+
+- low-bar squat 170kg, deadlift 205kg, bench press 140kg, strict press 85kg, strict pull-ups 13
+- ass-to-grass high-bar squats are the only proper squats
+- work capacity in a broad time and modal domain
+- learning olympic lifts and gymnastics
+- for the difficult :glass_of_milk:
+
+## Hobbies
+
+- Golf :golf:, junior national champion of Slovakia in 2009
+- Hiking and long-ass trail runs :snow_capped_mountain:
+- Sailing :sailboat: and building sand castles
+- Snowboarding :snowboarder: and winter stuff in general :snowflake:
+- Love me some lumberjacking :wood:, archery :bow_and_arrow: and other nature stuff :evergreen_tree:
+- Video games :joystick: - leet at _Crash Team Racing_, love _DOOM_, _Dark Souls_ like games...
+  anything challenging, really
+- Go-karts, bowling, paintball, many other things...
+
+# Social :bird:
+
+[email](mailto:boris@oreqizer.com?subject=Hi%20👋) [github.com](http://github.com/oreqizer) [medium.com](http://medium.com/@oreqizer/)
+[open.spotify.com](https://open.spotify.com/user/11154134535)
+
+<Footnote>
+
+Cheers to my friend [Olso](https://olso.space) for homepage design inspiration. :wine_glass:
+
+</Footnote>

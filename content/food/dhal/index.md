@@ -8,8 +8,7 @@ tags = ["food", "health"]
 
 ![Dhal](./dhal.jpeg "Dhal")
 
-This is my **dhal** recipe, simplified for my meal prep needs. A great gut
-health food!
+This is my **dhal** recipe, simplified for my meal prep needs. A great gut health food!
 
 # Ingredients
 
@@ -31,14 +30,12 @@ health food!
 
 # Process
 
-Heat up the _fat_ in a deep frying pan. Fry the _onions_, _garlic_ and _ginger_
-until softened.
+Heat up the _fat_ in a deep frying pan. Fry the _onions_, _garlic_ and _ginger_ until softened.
 
-Throw in all the _spices_ and _salt_, fry for about a minute. Add the _broth_,
-_tomatoes_, _coconut milk_, _chillies_ and _lentils_.
+Throw in all the _spices_ and _salt_, fry for about a minute. Add the _broth_, _tomatoes_, _coconut
+milk_, _chillies_ and _lentils_.
 
-Let it simmer with an occasional stir until the mixture is thicc, about
-20-25min.
+Let it simmer with an occasional stir until the mixture is thicc, about 20-25min.
 
 # Serving
 

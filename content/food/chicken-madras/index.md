@@ -29,16 +29,15 @@ This is my **chicken madras** recipe, simplified for my meal prep needs.
 
 # Process
 
-Heat up the _fat_ in a deep frying pan. Fry the _onions_ until softened. Add in
-the _chicken_, fry until white on the outside. When done, move into a big pot.
+Heat up the _fat_ in a deep frying pan. Fry the _onions_ until softened. Add in the _chicken_, fry
+until white on the outside. When done, move into a big pot.
 
-Mix the _garlic_, _ginger_, _chillies_, _spices_, _salt_, _vinegar_, _tomatoes_
-and _puree_ in a food processor, blend until smooth. Cover the chicken and
-onions with the blend. Mix in the _coconut milk_.
+Mix the _garlic_, _ginger_, _chillies_, _spices_, _salt_, _vinegar_, _tomatoes_ and _puree_ in a
+food processor, blend until smooth. Cover the chicken and onions with the blend. Mix in the _coconut
+milk_.
 
 Simmer for 40min, or slow-cook on low for 6 hours.
 
 # Serving
 
-Serve with basmati rice or naan, garnish with coriander if you're Mr.
-Fancypants.
+Serve with basmati rice or naan, garnish with coriander if you're Mr. Fancypants.
