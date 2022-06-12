@@ -7,7 +7,7 @@
 <main class="min-h-screen bg-background text-ink dark:bg-dark-background dark:text-dark-ink">
   <div class="font-mono p-2 max-w-2xl mx-auto">
     <div class="relative mb-8">
-      <img src="/social.png" alt="Boris Petrenko" />
+      <img src="/me.png" alt="Boris Petrenko" width="656px" height="409px" />
 
       <div class="my-6 md:my-0 md:absolute md:left-2 md:bottom-2 w-full">
         <Glitch text="Boris Petrenko" />
