@@ -41,8 +41,6 @@ talking at tech conferences and writing articles. He is currently finishing his 
 
 <ListBlocks list={["ci/cd", "static analysis", "docs", "human code reviews"]} />
 
-<ListBlocks list={["dapp", "📚 gun", "📚 hypercore", "📚 ipfs", "📚 ssb"]} />
-
 # Work :construction:
 
 <Work src="/work/kiwicom.svg">
