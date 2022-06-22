@@ -24,8 +24,8 @@ technologies, lifting heavy stuff and a good night's sleep.
 ([Kiwi.com](https://www.kiwi.com)) and marketplaces ([GainWagon](https://gainwagon.com) and
 [Seasy](https://seasy.at)). He is passionate about _web3_, _compilers_, _machine learning_ and _game
 development_. Boris greatly values educating others, contributes to open source projects, enjoys
-talking at tech conferences and writing articles. He is currently finishing his master's degree in
-**Management of software systems and services**.
+talking at tech conferences and writing articles. Has master's degree in **Management of software
+systems and services**.
 
 # Tech stack :computer:
 
