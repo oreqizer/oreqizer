@@ -20,7 +20,7 @@ technologies, lifting heavy stuff and a good night's sleep.
 
 ## HR intro
 
-**Staff engineer** with 6+ years of experience in the travel industry
+Software engineer with 7+ years of experience in the travel industry
 ([Kiwi.com](https://www.kiwi.com)) and marketplaces ([GainWagon](https://gainwagon.com) and
 [Seasy](https://seasy.at)). He is passionate about _web3_, _compilers_, _machine learning_ and _game
 development_. Boris greatly values educating others, contributes to open source projects, enjoys
@@ -45,7 +45,7 @@ systems and services**.
 
 <Work src="/work/kiwicom.svg">
   <span slot="title">Kiwi.com</span>
-  <span slot="description">Staff engineer — making travel accessible for everyone 🛫</span>
+  <span slot="description">Software engineer — making travel accessible for everyone 🛫</span>
   <Anchor slot="link" href="https://www.kiwi.com">
     kiwi.com
   </Anchor>
@@ -53,7 +53,7 @@ systems and services**.
 
 <Work src="/work/gainwagon.png">
   <span slot="title">GainWagon</span>
-  <span slot="description">Founder and CTO — all aboard the gain train! 💪 🚂</span>
+  <span slot="description">Founder — all aboard the gain train! 💪 🚂</span>
   <Anchor slot="link" href="https://gainwagon.com">
     gainwagon.com
   </Anchor>
