@@ -7,37 +7,43 @@
 Family man by heart :family:, engineer by profession :bee:. Interested in bleeding edge
 technologies, lifting heavy stuff and a good night's sleep.
 
+# Social :bird:
+
+[email](mailto:boris@oreqizer.com?subject=Yo%20👋) [github.com](http://github.com/oreqizer)
+[medium.com](http://medium.com/@oreqizer/)
+[open.spotify.com](https://open.spotify.com/user/11154134535)
+
 # Business :moneybag:
 
 ## tl;dr
 
-- Complex problems require simple solutions
+- Complexity very _very_ bad
 - Large-scale web app architecture is my bread :bread:
-- Executable specification is the best documentation
-- Keeping client code lean
-- Making sure pipeline stays green
+- CI/CD and delivery velocity is my passion :rocket:
+- Master's degree and a whole bunch of field experience
+- Read more [Grug](https://grugbrain.dev)
 - Working remotely from Europe, time zone CET/CEST/UTC+1 :flag-sk:
 
 ## HR intro
 
 Software engineer with 8+ years of experience in the travel industry
 ([Kiwi.com](https://www.kiwi.com)) and marketplaces ([GainWagon](https://gainwagon.com) and
-[Seasy](https://seasy.at)). He is passionate about _web apps_, _CI/CD_, _AI_ and wants to learn
-_iOS development_. Boris greatly values educating others, sometimes contributes to open source
-projects, enjoys talking at tech conferences and writing articles. Has master's degree in
+[Seasy](https://seasy.at)). Passionate about _web apps_, _CI/CD_, _AI_ and want to learn
+_iOS development_. I greatly value educating others, sometimes contribute to open source
+projects, enjoy talking at tech conferences and occasionally writing articles. Master's degree in
 **Management of software systems and services**.
 
 # Tech stack :computer:
 
-<ListBlocks list={["typescript", "rust", "go", "python", "📚 webassembly"]} />
+<ListBlocks list={["typescript", "rust", "go", "python", "📚 wasm"]} />
 
-<ListBlocks list={["react", "rsc", "svelte", "next", "tailwind", "performance"]} />
+<ListBlocks list={["react", "rsc", "svelte", "next", "tailwind", "web vitals"]} />
 
-<ListBlocks list={["dal", "bff", "postgres", "redis", "📚 grpc"]} />
+<ListBlocks list={["dal", "bff", "sql", "postgres", "redis", "📚 grpc"]} />
 
-<ListBlocks list={["git", "turbo", "vercel", "cloudflare", "docker"]} />
+<ListBlocks list={["playwright", "msw", "vitest", "eslint"]} />
 
-<ListBlocks list={["ci/cd", "testing", "lint", "human code reviews"]} />
+<ListBlocks list={["git", "turbo", "vercel", "edge", "docker"]} />
 
 # Work :construction:
 
@@ -91,12 +97,6 @@ projects, enjoys talking at tech conferences and writing articles. Has master's 
 - Video games :joystick: - leet at _Crash Team Racing_, love _DOOM_, _Dark Souls_ like games...
   anything challenging, really
 - Go-karts, bowling, paintball, many other things...
-
-# Social :bird:
-
-[email](mailto:boris@oreqizer.com?subject=Yo%20👋) [github.com](http://github.com/oreqizer)
-[medium.com](http://medium.com/@oreqizer/)
-[open.spotify.com](https://open.spotify.com/user/11154134535)
 
 <Footnote>
 
