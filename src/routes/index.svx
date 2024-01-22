@@ -12,10 +12,10 @@ technologies, lifting heavy stuff and a good night's sleep.
 ## tl;dr
 
 - Complex problems require simple solutions
+- Large-scale web app architecture is my bread :bread:
 - Executable specification is the best documentation
 - Keeping client code lean
 - Making sure pipeline stays green
-- All things web
 - Working remotely from Europe, time zone CET/CEST/UTC+1 :flag-sk:
 
 ## HR intro
