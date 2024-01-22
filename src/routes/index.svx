@@ -12,34 +12,32 @@ technologies, lifting heavy stuff and a good night's sleep.
 ## tl;dr
 
 - Complex problems require simple solutions
-- Doc or it didn't happen :paperclip:
-- Efficiency is king :crown:
-- Large-scale web app architecture is my bread
-- Bootstrapping MVPs is my passion
+- Executable specification is the best documentation
+- Keeping client code lean
+- Making sure pipeline stays green
+- All things web
 - Working remotely from Europe, time zone CET/CEST/UTC+1 :flag-sk:
 
 ## HR intro
 
-Software engineer with 7+ years of experience in the travel industry
+Software engineer with 8+ years of experience in the travel industry
 ([Kiwi.com](https://www.kiwi.com)) and marketplaces ([GainWagon](https://gainwagon.com) and
-[Seasy](https://seasy.at)). He is passionate about _web3_, _compilers_, _machine learning_ and _game
-development_. Boris greatly values educating others, contributes to open source projects, enjoys
-talking at tech conferences and writing articles. Has master's degree in **Management of software
-systems and services**.
+[Seasy](https://seasy.at)). He is passionate about _web apps_, _CI/CD_, _AI_ and wants to learn
+_iOS development_. Boris greatly values educating others, sometimes contributes to open source
+projects, enjoys talking at tech conferences and writing articles. Has master's degree in
+**Management of software systems and services**.
 
 # Tech stack :computer:
 
-<ListBlocks list={["rust", "typescript", "go", "python", "📚 webassembly"]} />
+<ListBlocks list={["typescript", "rust", "go", "python", "📚 webassembly"]} />
 
-<ListBlocks
-  list={["svelte", "react", "next", "edge", "tailwind", "performance", "web standards"]}
-/>
+<ListBlocks list={["react", "rsc", "svelte", "next", "tailwind", "performance"]} />
 
-<ListBlocks list={["bff", "graphql", "postgres", "redis", "📚 grpc"]} />
+<ListBlocks list={["dal", "bff", "postgres", "redis", "📚 grpc"]} />
 
-<ListBlocks list={["git", "aws sam", "cloudflare", "netlify", "docker"]} />
+<ListBlocks list={["git", "turbo", "vercel", "cloudflare", "docker"]} />
 
-<ListBlocks list={["ci/cd", "static analysis", "docs", "human code reviews"]} />
+<ListBlocks list={["ci/cd", "testing", "lint", "human code reviews"]} />
 
 # Work :construction:
 
@@ -76,14 +74,15 @@ systems and services**.
 
 ## Gym
 
-- low-bar squat 170kg, deadlift 205kg, bench press 140kg, strict press 85kg, strict pull-ups 13
-- ass-to-grass high-bar squats are the only proper squats
-- work capacity in a broad time and modal domain
-- learning olympic lifts and gymnastics
-- for the difficult :glass_of_milk:
+- Squat 170kg, deadlift 205kg, bench press 140kg, strict press 85kg, strict pull-ups 13
+- Lengthened partials for hypertrophy
+- Work capacity in a broad time and modal domain
+- Learning olympic lifts and gymnastics
+- For the difficult :glass_of_milk:
 
 ## Hobbies
 
+- Small farm coffee :coffee:
 - Golf :golf:, junior national champion of Slovakia in 2009
 - Hiking and long-ass trail runs :snow_capped_mountain:
 - Sailing :sailboat: and building sand castles
@@ -95,7 +94,7 @@ systems and services**.
 
 # Social :bird:
 
-[email](mailto:boris@oreqizer.com?subject=Hi%20👋) [github.com](http://github.com/oreqizer)
+[email](mailto:boris@oreqizer.com?subject=Yo%20👋) [github.com](http://github.com/oreqizer)
 [medium.com](http://medium.com/@oreqizer/)
 [open.spotify.com](https://open.spotify.com/user/11154134535)
 
