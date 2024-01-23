@@ -17,7 +17,7 @@ technologies, lifting heavy stuff and a good night's sleep.
 
 ## tl;dr
 
-- Complexity very _very_ bad
+- Complexity very, _very_ bad
 - Large-scale web app architecture is my bread :bread:
 - CI/CD and delivery velocity is my passion :rocket:
 - Master's degree and a whole bunch of field experience
