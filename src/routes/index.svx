@@ -71,6 +71,10 @@ projects, enjoy talking at tech conferences and occasionally writing articles. M
   </Anchor>
 </Work>
 
+# Talks :microphone:
+
+- [Effective web app testing 🎭](https://www.youtube.com/watch?v=U3V7UMJ-1hg)
+
 # Articles :lower_left_ballpoint_pen:
 
 - [The Math of Fitness 💪](https://medium.com/@oreqizer/the-math-of-fitness-dbcf11971617)
