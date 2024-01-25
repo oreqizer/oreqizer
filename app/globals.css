@@ -7,10 +7,6 @@
     @apply underline text-link dark:text-glitch-blue;
   }
 
-  a::after {
-    @apply content-["🔗"] inline-block ml-2 no-underline;
-  }
-
   blockquote {
     @apply border-l-2 border-glitch-blue pl-4;
   }
