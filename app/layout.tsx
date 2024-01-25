@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from 'next';
+import { Analytics } from '@vercel/analytics/react';
 import Image from 'next/image';
 import Glitch from '@/components/glitch';
 import me from './me.png';
@@ -47,6 +48,8 @@ export default function RootLayout({
             <section className="text-base md:text-lg">{children}</section>
           </div>
         </main>
+
+        <Analytics />
       </body>
     </html>
   );
