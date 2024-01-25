@@ -6,7 +6,7 @@ date = 2022-01-10
 tags = ["food", "health"]
 +++
 
-![Madras](./madras.jpg "Madras")
+![Madras](./madras.jpg 'Madras')
 
 This is my **chicken madras** recipe, simplified for my meal prep needs.
 

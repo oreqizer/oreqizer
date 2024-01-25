@@ -21,7 +21,7 @@ want to build upon his ideas and introduce a robust framework for _training for 
 
 If you search for the term "fitness", you get a bunch of definitions:
 
-![Fitness definition](./fitness-definition.png "Fitness definition")
+![Fitness definition](./fitness-definition.png 'Fitness definition')
 
 The first definition, "the condition of being physically fit and healthy" is ambiguous — how should
 one interpret "fit"? Most people will give completely different answers, and most of these people
@@ -65,7 +65,7 @@ tasks like stirring soup.
 
 Doing **work** within a certain **time** is in fact the formula for **power**:
 
-![Power](./power.png "Power")
+![Power](./power.png 'Power')
 
 As we established previously, a fit person has the ability to _perform his desired tasks_. In other
 words, they're able to _produce enough power for the given period of time_ in the _context_ of the
@@ -86,7 +86,7 @@ implications.
 Consider the following formula that calculates **work** done by exerting **power** over a period of
 **time**:
 
-![Work](./work.png "Work")
+![Work](./work.png 'Work')
 
 For a specific time `T`, in order to maximize work `W`, we have to maximize the _area under the
 curve_ of the graph. That means maximizing average power `P` within the time.
@@ -101,7 +101,7 @@ capacity across a _broad time domain_. Going up a dimension, we can illustrate a
 capacities_, which is the volume under the plane formed by _work capacities of different time
 frames_. I am going to call it _work capacity spectrum_:
 
-![Work capacity spectrum](./ws.png "Work capacity spectrum")
+![Work capacity spectrum](./ws.png 'Work capacity spectrum')
 
 Within the time domain from zero to `S` we calculate our _work capacity_ in each time frame. To
 maximize the _volume under the plane_ of the graph we have to maximize the average power `P` for
@@ -116,7 +116,7 @@ contexts. This assumption, however, violates the rule of context specificity[^2]
 Adding a _broad domain of contexts_ to the formula finally gives us the mathematical representation
 of **fitness**:
 
-![Fitness](./fitness.png "Fitness")
+![Fitness](./fitness.png 'Fitness')
 
 For each context `Ci`, we calculate _work capacity_ for that context in a broad time domain from
 zero to `S`. To maximize _fitness_, we have to maximize _volume under the plane_ for each context's
@@ -145,13 +145,13 @@ As humans age, we lose power[^4], strength[^5] and endurance[^6], all direct com
 production over a period of time, in a %-based manner. This implies that our _power across every
 age_ function is _continuous_:
 
-![Power age](./power_age.png "Power age")
+![Power age](./power_age.png 'Power age')
 
 This loss of power directly affects the formula for _fitness_, because we gradually lose the ability
 to _produce power in all contexts and across the whole time domain_. Graphing a person's fitness
 across his life very much resembles the declining power function:
 
-![Fitness age](./fitness_age.png "Fitness age")
+![Fitness age](./fitness_age.png 'Fitness age')
 
 Let's assume a curve of a person's desired _minimal fitness_, indicating how fit this person wants
 to be at a given age. This can for example mean that an elderly person wants to be able to play with
@@ -159,7 +159,7 @@ his grandchildren, carry groceries, hike and do gardening work on weekends. When
 wanted to play sports and compete, be productive at work and handle chores. Their minimal fitness
 curve would look something like this:
 
-![Minimal fitness](./min_fitness.png "Minimal fitness")
+![Minimal fitness](./min_fitness.png 'Minimal fitness')
 
 When their fitness falls under the curve, they lose the ability to perform some of their desired
 activities, and the deeper they are, the more ability they lose.
@@ -170,7 +170,7 @@ is gradual, the answer is simple — **buffer as much fitness as possible**!
 Consider two graphs for the same person. In one, they only trained their fitness slightly. In the
 other, they tried to maximize their fitness the best their lifestyle allowed them to:
 
-![Minimal fitness comparison](./min_fitness_compare.png "Minimal fitness comparison")
+![Minimal fitness comparison](./min_fitness_compare.png 'Minimal fitness comparison')
 
 Notice how in the first graph, they cross their minimal fitness curve at around the age of 45, while
 in the other graph they do so at 85. This means that maximizing fitness allowed them to _live to
@@ -192,7 +192,7 @@ _perceived exertion_ of this trip is inversely proportional to how close the _to
 your _work capacity_ in this context. Let's illustrate perceived exertion in percent using a graph
 of our power output:
 
-![Work execution hard](./work_exec_hard.png "Work execution hard")
+![Work execution hard](./work_exec_hard.png 'Work execution hard')
 
 The perceived exertion `PE` is calculated as the total work done `W` over our work capacity `W_max`
 in the given context and time frame, multiplied by `100` to get the percent.
@@ -218,7 +218,7 @@ Now imagine a second scenario where the groceries would be 1/3 of the weight we 
 probably just casually walk to your car, put them there, started your car and drove off home. The
 graph of your power output would look like this:
 
-![Work execution easy](./work_exec_easy.png "Work execution easy")
+![Work execution easy](./work_exec_easy.png 'Work execution easy')
 
 Suddenly our perceived exertion of carrying groceries drops from RPE 9 to RPE 3.
 
@@ -274,7 +274,7 @@ person's lifestyle and goals ultimately dictate the importance of each one domai
 
 In addition, not all domains are created equal. Consider the formula for _work_ and _power_:
 
-![Work and power labeled](./work_power_labeled.png "Work and power labeled")
+![Work and power labeled](./work_power_labeled.png 'Work and power labeled')
 
 As you can see, work `W` is composed of _force production_ for a _distance_. Power `P` is work done
 as quickly as possible. Work can also be expressed as area under the curve of a function of _power_
@@ -313,12 +313,12 @@ For example, powerlifters focus on getting as _strong_ as possible, weightlifter
 _power_. Both of these sports favor the very beginning of the time domain, creating a steep power
 curve:
 
-![Power curve steep](./power_curve_steep.png "Power curve steep")
+![Power curve steep](./power_curve_steep.png 'Power curve steep')
 
 On the contrary, long-distance runners and cyclists maximize _endurance_, which develops the
 complete opposite of the time domain, thus creating a much flatter curve:
 
-![Power curve shallow](./power_curve_shallow.png "Power curve shallow")
+![Power curve shallow](./power_curve_shallow.png 'Power curve shallow')
 
 These athletes focus on their sport first and foremost. Anything else is peripheral for them.
 
@@ -330,7 +330,7 @@ Instead of going all-in in one time spectrum and context and then just barely in
 on being proficient everywhere and filling gaps where they pop up, creating a balanced power curve.
 This approach builds the most fitness — maximizes work capacity across the time and context domain:
 
-![Power curve balanced](./power_curve_balanced.png "Power curve balanced")
+![Power curve balanced](./power_curve_balanced.png 'Power curve balanced')
 
 Balanced development is ideal for improving everyday life, since you gather all of the health
 benefits of all fitness domains, are able to perform all tasks at a low RPE, and a cherry on top is
@@ -417,7 +417,7 @@ Carrying groceries usually takes a few minutes. Running 5k is mostly done under 
 snatch is completed within a couple of seconds. Thus, we will consider _time_ to be a part of
 _context_ and reflect this in our formula for fitness:
 
-![Fitness short](./fitness_short.png "Fitness short")
+![Fitness short](./fitness_short.png 'Fitness short')
 
 Benchmarks are a way to assert that our _fitness is improving over time_. They are measurable
 workouts that show our _work capacity in a specific context_. Benchmarks should cover the whole time
@@ -447,7 +447,7 @@ capacity.
 If we could measure work done in each of the benchmarks and least-square the results, the graph of
 our fitness would look something like this:
 
-![Fitness benchmarks](./fitness_benchmarks.png "Fitness benchmarks")
+![Fitness benchmarks](./fitness_benchmarks.png 'Fitness benchmarks')
 
 Feel free to add anything measurable that translates well to your life. A mother of a toddler? Try
 sandbag carries for distance and max rep sandbag cleans. Hope to improve your cross-country skiing
@@ -474,7 +474,7 @@ Large chunk of your training should be centered around building your base by gro
 maximizing your strength and power. Becoming stronger and more powerful boosts your short-duration
 power curve and greatly increases your endurance potential:
 
-![Training base](./training_base.png "Training base")
+![Training base](./training_base.png 'Training base')
 
 Having a period of focused _hypertrophy_ training builds foundation for all other base
 adaptations[^23]. Exercises for building muscle are done with controlled form and emphasis on the
@@ -492,7 +492,7 @@ Building a massive engine to run your base means maximizing _aerobic_ and _anaer
 along with related modalities. It allows you to fully express your power for the longest time
 possible:
 
-![Training engine](./training_engine.png "Training engine")
+![Training engine](./training_engine.png 'Training engine')
 
 The moderate intensity, _LISS_ workouts build _aerobic capacity_ as an endurance base and they
 improve fuel efficiency. These are your basic 5k jogs at an aerobic pace. You only need about one to
@@ -525,7 +525,7 @@ All the movements you do when training need some level of technical competence t
 effectively. Being proficient in a wide variety of movements allows us to express our power in many
 different contexts:
 
-![Training skill](./training_skill.png "Training skill")
+![Training skill](./training_skill.png 'Training skill')
 
 Unless speaking about sport-specific skills, the level you want to be good in them really comes down
 to your _learning budget_. You'd ideally want to master everything of course, but in the real world,
@@ -557,13 +557,13 @@ Recovery is an absolutely necessary component of increasing fitness. Training gi
 and in order to _adapt_, we have to _recover_. This flow is known as the "stimulus, recovery,
 adaptation curve", or **SRA curve**:
 
-![SRA](./sra.png "SRA")
+![SRA](./sra.png 'SRA')
 
 Sufficiently hard training creates a _temporary decrease in fitness_. With proper recovery, the body
 adapts to that stress by _increasing our fitness_ so that our body is better prepared for that
 stimulus in the future:
 
-![SRA fitness](./sra_fitness.png "SRA fitness")
+![SRA fitness](./sra_fitness.png 'SRA fitness')
 
 The better we recover, the more stress we can impose on the body, the more _adaptations we can
 accumulate_ and the faster we can maximize our fitness.
@@ -801,72 +801,31 @@ fun, and _extremely rewarding_! :muscle:
 
 Stay strong, friends. :wave:
 
-[^1]:
-    [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
-
-[^2]:
-    [Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
-
+[^1]: [Three Dimensional Definition of Fitness and Health](https://www.youtube.com/watch?v=Rl6ANK8CN5w)
+[^2]: [Context Specificity in Performance](https://journals.sagepub.com/doi/abs/10.1177/154193129804201006?journalCode=proe)
 [^3]: [Defining CrossFit](http://journal.crossfit.com/2010/12/glassmandefining.tpl)
-[^4]:
-    [Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
-
-[^5]:
-    [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
-
+[^4]: [Age-associated power decline from running, jumping and throwing](https://pubmed.ncbi.nlm.nih.gov/25724012/)
+[^5]: [Strength and muscle mass loss with aging process](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940510/)
 [^6]: [Age-related alterations in muscular endurance](https://pubmed.ncbi.nlm.nih.gov/9587183/)
-[^7]:
-    [Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
-
+[^7]: [Anti-aging therapy through fitness enhancement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695180/)
 [^8]: [Resistance training is medicine](https://pubmed.ncbi.nlm.nih.gov/22777332/)
 [^9]: [Resistance training for health and performance](https://pubmed.ncbi.nlm.nih.gov/12831709/)
 [^10]: [Health benefits of aerobic exercise](https://pubmed.ncbi.nlm.nih.gov/2062750/)
-[^11]:
-    [Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
-
-[^12]:
-    [High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
-
-[^13]:
-    [Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
-
-[^14]:
-    [Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
-
-[^15]:
-    [Physical activity and feelings of energy and fatigue](https://pubmed.ncbi.nlm.nih.gov/16937952/)
-
-[^16]:
-    [Regulation and Dysregulation of Cellular Energy Supply and Metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700424/)
-
-[^17]:
-    [Mitochondria-Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
-
-[^18]:
-    [Exercise and mitochondrial health](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278853)
-
-[^19]:
-    [Accelerometer measured physical activity and the incidence of cardiovascular disease](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003487#)
-
+[^11]: [Aerobic vs anaerobic exercise training effects on the cardiovascular system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329739/)
+[^12]: [High-speed power training in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3902133/)
+[^13]: [Relationship between perceived exertion during exercise and subsequent recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5377553/)
+[^14]: [Increases in RPE Rating Predict Fatigue Accumulation](https://www.frontiersin.org/articles/10.3389/fphys.2021.735565/full)
+[^15]: [Physical activity and feelings of energy and fatigue](https://pubmed.ncbi.nlm.nih.gov/16937952/)
+[^16]: [Regulation and Dysregulation of Cellular Energy Supply and Metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700424/)
+[^17]: [Mitochondria-Fundamental to Life and Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684129/)
+[^18]: [Exercise and mitochondrial health](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278853)
+[^19]: [Accelerometer measured physical activity and the incidence of cardiovascular disease](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003487#)
 [^20]: [Foundations of CrossFit](http://journal.crossfit.com/2002/04/foundations.tpl)
-[^21]:
-    [The Case for Retiring Flexibility as a Major Component of Physical Fitness](https://pubmed.ncbi.nlm.nih.gov/31845202/)
-
+[^21]: [The Case for Retiring Flexibility as a Major Component of Physical Fitness](https://pubmed.ncbi.nlm.nih.gov/31845202/)
 [^22]: [Training vs. Exercise](https://startingstrength.com/article/training_vs_exercise)
-[^23]:
-    [Principle of Phase Potentiation](https://www.jtsstrength.com/principle-of-phase-potentiation/)
-
-[^24]:
-    [The Principle of Overload](https://www.jtsstrength.com/smart-training-is-hard-training-the-principle-of-overload/)
-
-[^25]:
-    [Maximal Strength Programming for CrossFit](https://www.jtsstrength.com/jts-classic-maximal-strength-programming-for-crossfit/)
-
-[^26]:
-    [HIIT Leads to Greater Improvements in Acute Heart Rate Recovery and Anaerobic Power as HVLIT in Advanced Athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539186/)
-
-[^27]:
-    [Safety and efficacy of creatine supplementation in exercise, sport, and medicine](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)
-
-[^28]:
-    [The Extraordinary Importance of Sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281147/)
+[^23]: [Principle of Phase Potentiation](https://www.jtsstrength.com/principle-of-phase-potentiation/)
+[^24]: [The Principle of Overload](https://www.jtsstrength.com/smart-training-is-hard-training-the-principle-of-overload/)
+[^25]: [Maximal Strength Programming for CrossFit](https://www.jtsstrength.com/jts-classic-maximal-strength-programming-for-crossfit/)
+[^26]: [HIIT Leads to Greater Improvements in Acute Heart Rate Recovery and Anaerobic Power as HVLIT in Advanced Athletes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539186/)
+[^27]: [Safety and efficacy of creatine supplementation in exercise, sport, and medicine](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)
+[^28]: [The Extraordinary Importance of Sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281147/)

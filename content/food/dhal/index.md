@@ -6,7 +6,7 @@ date = 2022-01-13
 tags = ["food", "health"]
 +++
 
-![Dhal](./dhal.jpeg "Dhal")
+![Dhal](./dhal.jpeg 'Dhal')
 
 This is my **dhal** recipe, simplified for my meal prep needs. A great gut health food!
 

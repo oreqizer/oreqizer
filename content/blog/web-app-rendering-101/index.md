@@ -38,7 +38,7 @@ element where the app is rendered is empty, as such:
 The initial page is usually blank, maybe with customized background color. The initial rendering
 flow looks like this:
 
-![Client-side rendering](./csr.png "Client-side rendering")
+![Client-side rendering](./csr.png 'Client-side rendering')
 
 As the _initial markup_, the user sees nothing. After the initial mount, they see a _loading state_
 of the application while data is being fetched. Only after that do they see the actual _loaded
@@ -46,7 +46,7 @@ content_.
 
 The summarized flow:
 
-![Client-side rendering flow](./csr-flow.png "Client-side rendering flow")
+![Client-side rendering flow](./csr-flow.png 'Client-side rendering flow')
 
 Since the rendering is only happening on the client, you can get away with all kinds of wild and
 disgusting things, like accessing `window` all over the place, global state, side effects affecting
@@ -100,13 +100,13 @@ client. It is a minimal UX compromise for a drastic reduction in complexity! :ge
 This one I like to call a _waste of a good server_. All the server does is rendering a loader
 skeleton for every possible URL. The initial render looks like this:
 
-![Server-side plain rendering](./static.png "Server-side plain rendering")
+![Server-side plain rendering](./static.png 'Server-side plain rendering')
 
 The user immediately sees a loader skeleton of the webpage as the _initial markup_. The initial
 mount is identical with the provided HTML, so the user seamlessly transitions into the _loading
 state_. User is displayed _loaded content_ when it finishes fetching.
 
-![Server-side plain rendering flow](./static-flow.png "Server-side plain rendering flow")
+![Server-side plain rendering flow](./static-flow.png 'Server-side plain rendering flow')
 
 The reason why this approach is a waste is that the server _plays no role at all_. It literally just
 re-renders the same thing all over again. :sweat_smile: Might as well pre-render everything and
@@ -135,13 +135,13 @@ a fucking fortune, both initially and maintenance-wise. :money_with_wings:
 The user is served with _initial markup_ already hydrated with content, so no _loading state_ is
 present at all. The app transitions seamlessly into the _loaded content_ state after its bootstrap:
 
-![Server-side rendering](./ssr.png "Server-side rendering")
+![Server-side rendering](./ssr.png 'Server-side rendering')
 
 Server-to-server communication is _much_ faster than client-to-server, so the initial data is
 fetched very quickly. In addition, the lack of loading state on the client makes the app ready to
 use super fast:
 
-![Server-side rendering flow](./ssr-flow.png "Server-side rendering flow")
+![Server-side rendering flow](./ssr-flow.png 'Server-side rendering flow')
 
 "C'mon, there has to be some caveat to this approach! :grimacing:" You might say. And you're right.
 A slow backend could delay TTFB, which would delay the initial render. In addition, you need a
@@ -203,12 +203,12 @@ is not pre-rendered.
 For every URL your app has, a loader skeleton is statically rendered. The UX is basically identical
 to the one of plain SSR:
 
-![Static rendering](./static.png "Static rendering")
+![Static rendering](./static.png 'Static rendering')
 
 The user receives a loader skeleton as the _initial markup_. This seamlessly transitions into the
 _loading state_ of the app. User is displayed _loaded content_ when it finishes fetching.
 
-![Static rendering flow](./static-flow.png "Static rendering flow")
+![Static rendering flow](./static-flow.png 'Static rendering flow')
 
 If your content is private for users, or you have highly dynamic content and favor simplicity over
 optimization, this is the approach for you. :ok_hand:
@@ -234,13 +234,13 @@ every couple of days maximum. Think training plans, marina listings, or the like
 
 In most cases, the UX is the same as with SSR with content:
 
-![Static content rendering](./ssr.png "Static content rendering")
+![Static content rendering](./ssr.png 'Static content rendering')
 
 The initial data is readily available, but can be stale, so is re-fetched on the client to ensure
 freshness. The app is already usable while the data is refreshing, so the whole experience is super
 fast! :fire:
 
-![Static content rendering flow](./static-content-flow.png "Static content rendering flow")
+![Static content rendering flow](./static-content-flow.png 'Static content rendering flow')
 
 The build process is quite more involved than plain static rendering. The pre-rendering build stage
 involves four kinds of renderings:
