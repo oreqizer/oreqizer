@@ -38,7 +38,7 @@ export default function RootLayout({
         <main className="min-h-screen bg-background text-ink dark:bg-dark-background dark:text-dark-ink">
           <div className="mx-auto max-w-2xl p-2 font-mono">
             <div className="relative mb-8">
-              <Image alt="Boris Petrenko" src={me} />
+              <Image alt="Boris Petrenko" priority src={me} />
 
               <div className="my-6 w-full md:absolute md:bottom-2 md:left-2 md:my-0">
                 <Glitch>Boris Petrenko</Glitch>
