@@ -6,7 +6,7 @@ export default function ListBlocks({
   list: string[];
 }): React.JSX.Element {
   return (
-    <ul className="mb-4 flex flex-wrap items-center">
+    <ul className="mx-0 mb-4 flex flex-wrap items-center">
       {list.map((item) => (
         <li
           className="mb-3 mr-3 inline-block whitespace-nowrap border-2 border-black p-2 dark:border-white"
