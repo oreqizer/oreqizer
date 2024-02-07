@@ -7,7 +7,7 @@ export default function Hiring(): React.JSX.Element {
         <span className="text-glitch-red">&gt;</span>
         <span className="text-glitch-blue">&gt; </span>
         <a
-          className="text-white"
+          className="text-black dark:text-white"
           href="mailto:boris@oreqizer.com?subject=Hey%20Boris,%20come%20work%20for%20us!%20💰"
         >
           <span>OPEN FOR HIRE</span>
