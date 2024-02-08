@@ -1,8 +1,5 @@
 import type { Metadata, Viewport } from 'next';
 import { Analytics } from '@vercel/analytics/react';
-import Image from 'next/image';
-import Glitch from '@/components/glitch';
-import me from './me.png';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -24,7 +21,10 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: '#000000',
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: 'white' },
+    { media: '(prefers-color-scheme: dark)', color: 'black' },
+  ],
 };
 
 export default function RootLayout({
@@ -35,18 +35,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <main className="min-h-screen bg-background text-ink dark:bg-dark-background dark:text-dark-ink">
-          <div className="mx-auto max-w-2xl p-2 font-mono">
-            <div className="relative mb-8">
-              <Image alt="Boris Petrenko" priority src={me} />
-
-              <div className="my-6 w-full md:absolute md:bottom-2 md:left-2 md:my-0">
-                <Glitch>Boris Petrenko</Glitch>
-              </div>
-            </div>
-
-            <section className="text-base md:text-lg">{children}</section>
-          </div>
+        <main className="min-h-screen bg-background font-mono text-base text-ink md:text-lg dark:bg-dark-background dark:text-dark-ink">
+          <div className="mx-auto max-w-2xl p-2">{children}</div>
         </main>
 
         <Analytics />
