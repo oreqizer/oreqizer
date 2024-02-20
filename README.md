@@ -1,6 +1,6 @@
 - Proud family man 👨‍👩‍👦
 - Creator of [GainWagon](https://www.gainwagon.com) 🚂
-- Software engineer at [Kiwi.com](https://www.kiwi.com) by profession 💰
+- Software engineer by profession 💰
 - Advocate of lengthened partials 💪
 - Fan of automated testing 🧐
 - Favourite language is **Rust** 🦀
