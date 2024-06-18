@@ -1,14 +1,19 @@
+import Image from 'next/image';
 import Cover from '@/components/cover';
 import Hiring from '@/components/hiring';
 import ListBlocks from '@/components/list-blocks';
 import Work from '@/components/work';
+import imageMe from '@/app/me.jpeg';
 import imgKiwicom from './work-kiwicom.png';
 import imgGainWagon from './work-gainwagon.png';
 import imgSeasy from './work-seasy.png';
 
 export const runtime = 'edge';
 
-<Cover />
+<Cover
+  image={<Image alt="Boris Petrenko" priority src={imageMe} />}
+  title="Boris Petrenko"
+/>
 
 Family man by heart :house_with_garden:, software engineer by profession :honeybee:. Interested in
 bleeding edge technologies, lifting heavy stuff and a good night's sleep.
@@ -25,15 +30,12 @@ bleeding edge technologies, lifting heavy stuff and a good night's sleep.
 
 # Business :moneybag:
 
-<Hiring />
-
 ## tl;dr
 
-- Complexity very, _very_ bad
+- [Complexity very, _very_ bad](https://grugbrain.dev)
 - Large-scale web app architecture is my bread :bread:
 - CI/CD and delivery velocity is my passion :rocket:
 - Master's degree in CS and a whole bunch of field experience
-- Read more [Grug](https://grugbrain.dev)
 - Working remotely from Europe, time zone CET/CEST/UTC+1 :slovakia:
 
 ## About
@@ -61,7 +63,7 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 <ListBlocks list={['typescript', 'rust', 'go', 'python', '📚 swift']} />
 
 <ListBlocks
-  list={['react', 'rsc', 'svelte', 'next', 'tailwind', 'web vitals']}
+  list={['react', 'svelte', 'next', 'tailwind', 'web vitals', '📚 htmx']}
 />
 
 <ListBlocks list={['dal', 'bff', 'sql', 'postgres', 'graphql', '📚 grpc']} />
@@ -170,8 +172,9 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 
 ## Finished or reading
 
+- [The Physics of Filter Coffee](https://www.goodreads.com/book/show/57716548-the-physics-of-filter-coffee#)
+  by Jonathan Gagné :construction:
 - [The Staff Engineer's path](https://www.goodreads.com/en/book/show/61058107) by Tanya Reilly
-  :construction:
 - [Team Topologies](https://www.goodreads.com/en/book/show/44135420) by Matthew Skelton, Manuel Pais
 
 ## Backlog
@@ -191,10 +194,10 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 
 ## Gym
 
-- Squat 170kg, deadlift 205kg, bench press 140kg, strict press 85kg, strict pull-ups 13
+- Squat 170kg, deadlift 205kg, bench press 140kg, strict press 85kg, strict pull-ups 15
 - Lengthened partials for hypertrophy
 - Work capacity in a broad time and modal domain
-- Learning olympic lifts and gymnastics
+- Learning olympic lifts
 - For the difficult :milk_glass:
 
 ## Hobbies

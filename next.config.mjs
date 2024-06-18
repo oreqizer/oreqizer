@@ -2,8 +2,11 @@ import createMDX from '@next/mdx';
 import remarkEmoji from 'remark-emoji';
 import remarkSlug from 'remark-slug';
 import remarkGfm from 'remark-gfm';
+import remarkFootnotes from 'remark-footnotes';
+import remarkFrontmatter from 'remark-frontmatter';
+import remarkMdxFrontmatter from 'remark-mdx-frontmatter';
 
-/** @type {import('next').NextConfig} */
+/** @type {import("next").NextConfig} */
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
   async redirects() {
@@ -32,7 +35,14 @@ const withMDX = createMDX({
   },
   options: {
     // Emoji list at https://github.com/muan/emojilib/releases/tag/v2.4.0
-    remarkPlugins: [remarkGfm, [remarkEmoji, { accessible: true }], remarkSlug],
+    remarkPlugins: [
+      remarkGfm,
+      [remarkEmoji, { accessible: true }],
+      remarkSlug,
+      [remarkFootnotes, { inlineNotes: true }],
+      remarkFrontmatter,
+      remarkMdxFrontmatter,
+    ],
     rehypePlugins: [],
   },
 });
