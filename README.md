@@ -1,6 +1,6 @@
 - Proud family man 👨‍👩‍👦
-- Creator of [GainWagon](https://www.gainwagon.com) 🚂
+- Creator of [GainWagon](https://gainwagon.com) 🚂
 - Software engineer by profession 💰
-- Advocate of lengthened partials 💪
+- Advocate of hoisting and heaving 🐎🐓
 - Fan of automated testing 🧐
 - Favourite language is **Rust** 🦀
