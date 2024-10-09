@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import Cover from '@/components/cover';
-import Hiring from '@/components/hiring';
 import ListBlocks from '@/components/list-blocks';
 import Work from '@/components/work';
 import imageMe from '@/app/me.jpeg';
+import imgQonto from './work-qonto.png';
 import imgKiwicom from './work-kiwicom.png';
 import imgGainWagon from './work-gainwagon.png';
 import imgSeasy from './work-seasy.png';
@@ -77,6 +77,47 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 # Work :construction:
 
 <Work
+  src={imgQonto}
+  title="Qonto"
+  description="Manage your business finances with ease. 💳"
+  link={<a href="https://qonto.com">qonto.com</a>}
+  positions={[
+    {
+      title: 'Staff Engineer',
+      timeline: 'Apr 2024 → Present',
+      responsibilities: [
+        'Establish component and UI testing standards',
+        'Build large-scale cross-team features',
+        'Help incrementally migrate existing Ember app to React',
+      ],
+    },
+  ]}
+/>
+
+<Work
+  src={imgGainWagon}
+  title="GainWagon"
+  description="All aboard the gain train! 💪 🚂 This is my little side hustle baby."
+  link={<a href="https://gainwagon.com">gainwagon.com</a>}
+  positions={[
+    {
+      title: 'Founder',
+      timeline: 'Sep 2020 → Present',
+      responsibilities: [
+        'Maintain Postgres database through Prisma',
+        'Created the web app using React and server components',
+        'Set up subscription payments with Stripe',
+        'Integrated CI/CD with GitHub Actions',
+        'Full UI testing coverage with Playwright',
+        'Implemented a secure DAL with efficient caching',
+        'Created a component library using React Aria and Tailwind CSS',
+        'Created all of the content and training programs',
+      ],
+    },
+  ]}
+/>
+
+<Work
   src={imgKiwicom}
   title="Kiwi.com"
   description="Making travel accessible for everyone. 🛫"
@@ -127,29 +168,6 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 />
 
 <Work
-  src={imgGainWagon}
-  title="GainWagon"
-  description="All aboard the gain train! 💪 🚂 This is my little side hustle baby."
-  link={<a href="https://gainwagon.com">gainwagon.com</a>}
-  positions={[
-    {
-      title: 'Founder',
-      timeline: 'Sep 2020 → Present',
-      responsibilities: [
-        'Maintain Postgres database through Prisma',
-        'Created the web app using React and server components',
-        'Set up subscription payments with Stripe',
-        'Integrated CI/CD with GitHub Actions',
-        'Full UI testing coverage with Playwright',
-        'Implemented a secure DAL with efficient caching',
-        'Created a component library using React Aria and Tailwind CSS',
-        'Created all of the content and training programs',
-      ],
-    },
-  ]}
-/>
-
-<Work
   src={imgSeasy}
   title="Seasy"
   description="The leading marina booking platform ⛵This was my little side hustle baby."
@@ -174,11 +192,15 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 
 - [The Physics of Filter Coffee](https://www.goodreads.com/book/show/57716548-the-physics-of-filter-coffee#)
   by Jonathan Gagné :construction:
-- [The Staff Engineer's path](https://www.goodreads.com/en/book/show/61058107) by Tanya Reilly
+- [Basic Writings of Nietzsche](https://www.goodreads.com/book/show/12319.Basic_Writings_of_Nietzsche)
+  by Friedrich Nietzsche, translated by Walter Kaufmann :construction:
+- [The Staff Engineer's Path](https://www.goodreads.com/en/book/show/61058107) by Tanya Reilly
 - [Team Topologies](https://www.goodreads.com/en/book/show/44135420) by Matthew Skelton, Manuel Pais
 
 ## Backlog
 
+- [The Gay Science](https://www.goodreads.com/book/show/94578.The_Gay_Science) by Friedrich Nietzsche, translated by Walter Kaufmann
+- [Thus Spoke Zarathustra](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra) by Friedrich Nietzsche, translated by Walter Kaufmann
 - [Modern Software Engineering](https://www.goodreads.com/en/book/show/57345270) by Dave Farley
 
 # Talks :microphone:
@@ -194,10 +216,10 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 
 ## Gym
 
-- Squat 170kg, deadlift 205kg, bench press 140kg, strict press 85kg, strict pull-ups 15
-- Lengthened partials for hypertrophy
+- Squat 170kg, deadlift 205kg, bench press 140kg, strict press 90kg, strict pull-ups 18
+- Lengthened partials and horsecockery for hypertrophy
 - Work capacity in a broad time and modal domain
-- Learning olympic lifts
+- Olympic lifts enjoyer, but I suck at them 🤷‍♀️
 - For the difficult :milk_glass:
 
 ## Hobbies
