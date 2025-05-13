@@ -28,7 +28,7 @@
   }
 
   ul {
-    @apply list-disc leading-loose ml-4 md:ml-0;
+    @apply list-disc leading-loose ml-4;
   }
 }
 

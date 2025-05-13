@@ -1,6 +1,12 @@
-import Cover from '@/components/cover';
+import Image from 'next/image';
 
-<Cover title="Opravte si chrbát" />
+import Cover from '@/components/cover';
+import imageGym from './images/gym.jpeg';
+
+<Cover
+  image={<Image alt="" priority src={imageGym} />}
+  title="Opravte si chrbát"
+/>
 
 Sedavé zamestnanie? Chronická bolesť chrbta?
 
