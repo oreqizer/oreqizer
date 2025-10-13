@@ -20,6 +20,11 @@ export default function Hiring(): React.JSX.Element {
         Hiring me you get the <strong>power of four engineers</strong> for the{' '}
         <strong>price of two</strong>!
       </div>
+      <div className="text-xl sm:text-2xl">
+        Interested in <strong>stable full-remote</strong> jobs for{' '}
+        <strong className="whitespace-nowrap">€ 8k+/mo</strong>{' '}
+        <span aria-hidden>✨</span>
+      </div>
     </div>
   );
 }
