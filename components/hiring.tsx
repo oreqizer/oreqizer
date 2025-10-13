@@ -21,8 +21,7 @@ export default function Hiring(): React.JSX.Element {
         <strong>price of two</strong>!
       </div>
       <div className="text-xl sm:text-2xl">
-        Interested in <strong>stable full-remote</strong> jobs for{' '}
-        <strong className="whitespace-nowrap">€ 8k+/mo</strong>{' '}
+        Interested in <strong>stable full-remote</strong> jobs.
         <span aria-hidden>✨</span>
       </div>
     </div>
