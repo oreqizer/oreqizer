@@ -13,8 +13,8 @@
     {
       "matchUpdateTypes": ["major"],
       "stabilityDays": 7,
-      "automerge": true,
-      "labels": ["dependencies", "automerge", "major"]
+      "automerge": false,
+      "labels": ["dependencies", "major"]
     }
   ],
   "dependencyDashboard": false
