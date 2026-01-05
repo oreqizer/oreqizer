@@ -2,8 +2,8 @@ import Image from 'next/image';
 import Cover from '@/components/cover';
 import ListBlocks from '@/components/list-blocks';
 import Work from '@/components/work';
-import Hiring from '@/components/hiring';
 import imageMe from '@/app/me.jpeg';
+import imgS1 from './work-s1.png';
 import imgQonto from './work-qonto.png';
 import imgKiwicom from './work-kiwicom.png';
 import imgGainWagon from './work-gainwagon.png';
@@ -18,8 +18,6 @@ export const runtime = 'edge';
 
 Family man by heart :house_with_garden:, software engineer by profession :honeybee:. Interested in
 bleeding edge technologies, hoisting and heaving 🐎🐓 and a good night's sleep.
-
-<Hiring />
 
 # Social :bird:
 
@@ -71,7 +69,7 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 
 <ListBlocks list={['dal', 'bff', 'sql', 'postgres', 'graphql', '📚 grpc']} />
 
-<ListBlocks list={['ai', 'mcp', '📚 rag']} />
+<ListBlocks list={['ai', 'claude code', 'mcp', '📚 rag']} />
 
 <ListBlocks
   list={['playwright', 'msw', 'vitest', 'domain testing', 'ab testing']}
@@ -80,6 +78,20 @@ business and to the users. No redundant ceremonies, lengthy meetings or useless 
 <ListBlocks list={['git', 'turbo', 'vercel', 'edge', 'docker', 'aws']} />
 
 # Work :construction:
+
+<Work
+  src={imgS1}
+  title="SentinelOne"
+  description="AI-Powered Enterprise Cybersecurity 🔑"
+  link={<a href="https://sentinelone.com">sentinelone.com</a>}
+  positions={[
+    {
+      title: 'Staff Fullstack Engineer',
+      timeline: 'Jan 2026 → Now',
+      responsibilities: ['Build and maintain a fullstack service'],
+    },
+  ]}
+/>
 
 <Work
   src={imgQonto}
