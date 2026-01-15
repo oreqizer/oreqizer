@@ -35,7 +35,7 @@
     "husky": "9.1.7",
     "lint-staged": "15.5.2",
     "postcss": "^8.4.38",
-    "prettier": "3.7.4",
+    "prettier": "3.8.0",
     "remark-emoji": "5.0.2",
     "remark-footnotes": "4.0.1",
     "remark-frontmatter": "5.0.0",
