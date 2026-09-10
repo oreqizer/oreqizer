@@ -40,7 +40,7 @@
     "remark-footnotes": "4.0.1",
     "remark-frontmatter": "5.0.0",
     "remark-gfm": "4.0.1",
-    "remark-mdx-frontmatter": "4.0.0",
+    "remark-mdx-frontmatter": "5.2.0",
     "remark-slug": "7.0.1",
     "stylelint": "16.26.1",
     "stylelint-config-css-modules": "4.6.0",
