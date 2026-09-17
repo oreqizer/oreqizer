@@ -47,10 +47,10 @@ importers:
         version: 18.3.7(@types/react@18.3.31)
       '@vercel/style-guide':
         specifier: 6.0.0
-        version: 6.0.0(@next/eslint-plugin-next@14.2.35)(eslint-import-resolver-node@0.3.9(supports-color@7.2.0))(eslint@8.57.1(supports-color@7.2.0))(prettier@3.9.6)(supports-color@7.2.0)(typescript@5.9.3)
+        version: 6.0.0(@next/eslint-plugin-next@14.2.35)(eslint-import-resolver-node@0.3.9(supports-color@7.2.0))(eslint@8.57.1(supports-color@7.2.0))(prettier@3.9.7)(supports-color@7.2.0)(typescript@5.9.3)
       autoprefixer:
         specifier: ^10.4.19
-        version: 10.6.0(postcss@8.5.28)
+        version: 10.6.1(postcss@8.5.28)
       eslint:
         specifier: ^8.57.0
         version: 8.57.1(supports-color@7.2.0)
@@ -70,8 +70,8 @@ importers:
         specifier: ^8.4.38
         version: 8.5.28
       prettier:
-        specifier: 3.9.6
-        version: 3.9.6
+        specifier: 3.9.7
+        version: 3.9.7
       remark-emoji:
         specifier: 5.0.2
         version: 5.0.2
@@ -919,8 +919,8 @@ packages:
     resolution: {integrity: sha512-ISvCdHdlTDlH5IpxQJIex7BWBywFWgjJSVdwst+/iQCoEYnyOaQ95+X1JGshuBjGp6nxKUy1jMgE3zPqN7fQdg==}
     hasBin: true
 
-  autoprefixer@10.6.0:
-    resolution: {integrity: sha512-A26d6qs9kqGgkmImIXMYvXTzqb4Qv7AVgpY1NXzr9Y659J8qHHnLOO/zE8ewIGFMprOolAoRAQYDgNryXIJKBw==}
+  autoprefixer@10.6.1:
+    resolution: {integrity: sha512-cL1Qz6ADZhcEbny/8HPfe99J6HhNoYtpX2LFLIbhgGE7Q1hlQVkYFdetDN7Id3KiQxhDrHwzlHr/YQCnZ8+xSA==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
@@ -2726,8 +2726,8 @@ packages:
       prettier:
         optional: true
 
-  prettier@3.9.6:
-    resolution: {integrity: sha512-OpN0zzVdiaiAhxpuuj5efpIS4sY9j7bY6uR5mnj5yPzGkdkjNKSJeUThPb60Jw29QuAZgA4o+/iB49kFiaBX6g==}
+  prettier@3.9.7:
+    resolution: {integrity: sha512-T3mF5P7HFzZVLDQuCUNtJj6WK1pcpLMweMNUVwGb01bLNkH9AkKxtZvmInw8K6bnn2O3d6/5RHl6zSHiBAD0Og==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -4080,7 +4080,7 @@ snapshots:
       next: 14.2.35(@babel/core@7.24.7(supports-color@7.2.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
 
-  '@vercel/style-guide@6.0.0(@next/eslint-plugin-next@14.2.35)(eslint-import-resolver-node@0.3.9(supports-color@7.2.0))(eslint@8.57.1(supports-color@7.2.0))(prettier@3.9.6)(supports-color@7.2.0)(typescript@5.9.3)':
+  '@vercel/style-guide@6.0.0(@next/eslint-plugin-next@14.2.35)(eslint-import-resolver-node@0.3.9(supports-color@7.2.0))(eslint@8.57.1(supports-color@7.2.0))(prettier@3.9.7)(supports-color@7.2.0)(typescript@5.9.3)':
     dependencies:
       '@babel/core': 7.24.7(supports-color@7.2.0)
       '@babel/eslint-parser': 7.24.7(@babel/core@7.24.7(supports-color@7.2.0))(eslint@8.57.1(supports-color@7.2.0))
@@ -4101,11 +4101,11 @@ snapshots:
       eslint-plugin-tsdoc: 0.2.17
       eslint-plugin-unicorn: 51.0.1(eslint@8.57.1(supports-color@7.2.0))(supports-color@7.2.0)
       eslint-plugin-vitest: 0.3.26(@typescript-eslint/eslint-plugin@7.13.1(@typescript-eslint/parser@7.13.1(eslint@8.57.1(supports-color@7.2.0))(supports-color@7.2.0)(typescript@5.9.3))(eslint@8.57.1(supports-color@7.2.0))(supports-color@7.2.0)(typescript@5.9.3))(eslint@8.57.1(supports-color@7.2.0))(supports-color@7.2.0)(typescript@5.9.3)
-      prettier-plugin-packagejson: 2.5.0(prettier@3.9.6)
+      prettier-plugin-packagejson: 2.5.0(prettier@3.9.7)
     optionalDependencies:
       '@next/eslint-plugin-next': 14.2.35
       eslint: 8.57.1(supports-color@7.2.0)
-      prettier: 3.9.6
+      prettier: 3.9.7
       typescript: 5.9.3
     transitivePeerDependencies:
       - eslint-import-resolver-node
@@ -4249,7 +4249,7 @@ snapshots:
 
   astring@1.8.6: {}
 
-  autoprefixer@10.6.0(postcss@8.5.28):
+  autoprefixer@10.6.1(postcss@8.5.28):
     dependencies:
       browserslist: 4.28.9
       caniuse-lite: 1.0.30001810
@@ -6521,14 +6521,14 @@ snapshots:
 
   prelude-ls@1.2.1: {}
 
-  prettier-plugin-packagejson@2.5.0(prettier@3.9.6):
+  prettier-plugin-packagejson@2.5.0(prettier@3.9.7):
     dependencies:
       sort-package-json: 2.10.0
       synckit: 0.9.0
     optionalDependencies:
-      prettier: 3.9.6
+      prettier: 3.9.7
 
-  prettier@3.9.6: {}
+  prettier@3.9.7: {}
 
   prop-types@15.8.1:
     dependencies:
