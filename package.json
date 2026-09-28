@@ -17,7 +17,7 @@
     "next": "14.2.35",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "sharp": "0.35.4"
+    "sharp": "0.35.5"
   },
   "devDependencies": {
     "@mdx-js/loader": "3.1.1",
@@ -35,7 +35,7 @@
     "husky": "9.1.7",
     "lint-staged": "15.5.2",
     "postcss": "^8.4.38",
-    "prettier": "3.9.8",
+    "prettier": "3.9.9",
     "remark-emoji": "5.0.2",
     "remark-footnotes": "4.0.1",
     "remark-frontmatter": "5.0.0",
